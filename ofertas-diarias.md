@@ -1,0 +1,24 @@
+# Ofertas diarias - 2026-11-25 19:27 AST
+
+Fuente: https://slickdeals.net/newsearch.php?rss=1
+
+- [Prada Paradigme Eau de Parfum Gift Set](https://slickdeals.net/f/20398845-prada-paradigme-eau-de-parfum-gift-set?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$238* | Sony PS-LX3BT Wireless Bluetooth Turntable + 10% Back w/ Prime Visa Card at Amazon](https://slickdeals.net/f/20398839-238-sony-ps-lx3bt-wireless-bluetooth-turntable-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$7.99* | Kershaw Recap Keychain Multi-Tool w/ Bottle Opener, Pry Bar & Flathead Screwdriver at Amazon](https://slickdeals.net/f/20398692-7-99-kershaw-recap-keychain-multi-tool-w-bottle-opener-pry-bar-flathead-screwdriver-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [Bose Ultra Open Earbuds 2nd Gen $139 (Military)](https://slickdeals.net/f/20398530-bose-ultra-open-earbuds-2nd-gen-139-military?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$1.99 | Bicycle Playing Cards (Colors May Vary: Red, Blue or Black) at Woot!](https://slickdeals.net/f/20398368-1-99-bicycle-playing-cards-colors-may-vary-red-blue-or-black-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [Gift Card Deals Megathread: Best Buy, Apple, DoorDash, Starbucks, Nintendo, Xbox, Fandango & More](https://slickdeals.net/f/20398254-gift-card-deals-megathread-best-buy-apple-doordash-starbucks-nintendo-xbox-fandango-more?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$699* | Apple MacBook Neo Laptop: 13" 2408x1506, A18 Pro Chip, 8GB RAM, 512GB SSD at Amazon](https://slickdeals.net/f/20398200-699-apple-macbook-neo-laptop-13-2408x1506-a18-pro-chip-8gb-ram-512gb-ssd-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$159.95* | Sennheiser Consumer Audio Momentum 4 Wireless Headphones (Black/Copper) at Amazon](https://slickdeals.net/f/20398170-159-95-sennheiser-consumer-audio-momentum-4-wireless-headphones-black-copper-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [Get $10 Off Your Next $25 Postmates Order!](https://slickdeals.net/f/20398167-get-10-off-your-next-25-postmates-order?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$9.99* | 4D Build Pokémon Pikachu 3D Puzzle Model Kit, Desk Décor, Shelf Display at Amazon](https://slickdeals.net/f/20397957-9-99-4d-build-pok-mon-pikachu-3d-puzzle-model-kit-desk-d-cor-shelf-display-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$14.99* | 12-Pk SKLZ Impact Limited-Flight Practice Baseballs at Amazon](https://slickdeals.net/f/20397471-14-99-12-pk-sklz-impact-limited-flight-practice-baseballs-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [Schiit Audio Brown Wednesday deals $79](https://slickdeals.net/f/20397264-schiit-audio-brown-wednesday-deals-79?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [(SnS, AC) $7.17 or $6.27* | 24-Ct 0.5-Oz PIRATE'S BOOTY Aged White Cheddar Cheese Puffs Bags at Amazon (29.9￠ each)](https://slickdeals.net/f/20397135-sns-ac-7-17-or-6-27-24-ct-0-5-oz-pirate-s-booty-aged-white-cheddar-cheese-puffs-bags-at-amazon-29-9-each?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$259.95* | Sennheiser HD 650 Audiophile Hi-Res Open Back Dynamic Headphones at Amazon](https://slickdeals.net/f/20396895-259-95-sennheiser-hd-650-audiophile-hi-res-open-back-dynamic-headphones-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [Crocs: Up to 60% Off Men's, Women's & Kids' Select Styles + Free Shipping on $45+](https://slickdeals.net/f/20396868-crocs-up-to-60-off-men-s-women-s-kids-select-styles-free-shipping-on-45?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [STAR WARS The Black Series Scout Trooper Premium Electronic Helmet | Sound Effects, Return of the Jedi Adult Roleplay Item $69.99](https://slickdeals.net/f/20396847-star-wars-the-black-series-scout-trooper-premium-electronic-helmet-sound-effects-return-of-the-jedi-adult-roleplay-item-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$8.39* | 13" Franklin Sports Field Master V Web Baseball Mitt (Right Hand Throw) at Amazon](https://slickdeals.net/f/20396703-8-39-13-franklin-sports-field-master-v-web-baseball-mitt-right-hand-throw-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$299.98* | eufy Security SoloCam E30 Kit (4-Pk Cameras + Homebase 2) at Amazon](https://slickdeals.net/f/20396529-299-98-eufy-security-solocam-e30-kit-4-pk-cameras-homebase-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [(SnS) $3.06 or $2.74* | 2-Pk Energizer 377 Silver Oxide Button Batteries at Amazon](https://slickdeals.net/f/20396520-sns-3-06-or-2-74-2-pk-energizer-377-silver-oxide-button-batteries-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
+- [$29.99* | It Takes Two (Nintendo Switch 2) at Amazon](https://slickdeals.net/f/20396514-29-99-it-takes-two-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2)
