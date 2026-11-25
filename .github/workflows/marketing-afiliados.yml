@@ -1,0 +1,38 @@
+name: Marketing y afiliados
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  marketing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Obtener artículos de marketing y guardar marketing-afiliados.md
+        run: |
+          curl -fsSL -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36" -o feed.xml "https://blog.hubspot.com/marketing/rss.xml"
+          python3 - <<'PY'
+          import datetime, xml.etree.ElementTree as ET
+          now = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=4)
+          tree = ET.parse("feed.xml")
+          channel = tree.getroot().find("channel")
+          items = channel.findall("item")[:15]
+          lines = [f"# Marketing y afiliados - {now:%Y-%m-%d %H:%M} AST", "", "Fuente: https://blog.hubspot.com/marketing/rss.xml", ""]
+          for it in items:
+              title = (it.findtext("title") or "").strip()
+              link = (it.findtext("link") or "").strip()
+              lines.append(f"- [{title}]({link})")
+          if not items:
+              raise SystemExit("No se encontraron artículos en el RSS")
+          open("marketing-afiliados.md", "w", encoding="utf-8").write("\n".join(lines) + "\n")
+          print("Marketing guardado")
+          PY
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add marketing-afiliados.md
+          git diff --cached --quiet || git commit -m "Actualizar marketing-afiliados.md"
+          git push
