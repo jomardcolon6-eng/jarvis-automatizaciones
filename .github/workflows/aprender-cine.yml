@@ -1,0 +1,60 @@
+name: Aprender cine
+
+on:
+  schedule:
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aprender-cine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar RSS de No Film School y generar aprender-cine.md
+        run: |
+          curl -fsSL -A "Mozilla/5.0" -o feed.xml "https://nofilmschool.com/rss.xml"
+          python3 - <<'PY'
+          import datetime, xml.etree.ElementTree as ET
+          root = ET.parse('feed.xml').getroot()
+          def local(tag):
+              return tag.rsplit('}', 1)[-1]
+          def find_child(elem, name):
+              for child in elem:
+                  if local(child.tag) == name:
+                      return child
+              return None
+          items = [el for el in root.iter() if local(el.tag) in ('item', 'entry')]
+          items = items[:20]
+          if not items:
+              raise SystemExit('No se encontraron articulos en el RSS de No Film School')
+          now = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=4)
+          lines = [
+              f"# Aprender cine - {now:%Y-%m-%d %H:%M} AST",
+              '',
+              'Fuente: https://nofilmschool.com/rss.xml',
+              '',
+          ]
+          for item in items:
+              title_el = find_child(item, 'title')
+              title = (title_el.text or '').strip().replace('[', '(').replace(']', ')') if title_el is not None else ''
+              link_el = find_child(item, 'link')
+              link = ''
+              if link_el is not None:
+                  link = (link_el.text or '').strip() or link_el.get('href', '').strip()
+              if title and link:
+                  lines.append(f"- [{title}]({link})")
+          if len(lines) <= 4:
+              raise SystemExit('No se pudo extraer ningun articulo con enlace')
+          open('aprender-cine.md', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+          print(f"Guardados {len(lines) - 4} articulos en aprender-cine.md")
+          PY
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add aprender-cine.md
+          git diff --cached --quiet || git commit -m "Actualizar aprender-cine.md"
+          git push
