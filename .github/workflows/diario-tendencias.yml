@@ -1,0 +1,38 @@
+name: Diario de tendencias
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tendencias:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Descargar tendencias de Google Trends (EE. UU.)
+        run: |
+          FECHA=$(date -u +%F)
+          curl -fsSL "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US" -o /tmp/tendencias.xml
+          {
+            echo "# Tendencias diarias - $FECHA"
+            echo ""
+            echo "Fuente: Google Trends (Estados Unidos), RSS publico."
+            echo ""
+            echo "Actualizado: $FECHA (UTC)"
+            echo ""
+            echo '```xml'
+            cat /tmp/tendencias.xml
+            echo '```'
+          } > tendencias-diarias.md
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tendencias-diarias.md
+          git diff --cached --quiet || git commit -m "Actualizar tendencias diarias $(date -u +%F)"
+          git push
