@@ -1,0 +1,23 @@
+name: Recordatorio semanal
+on:
+  schedule:
+    - cron: '0 15 * * 6'
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  recordar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Crear recordatorio semanal
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create --title "Recordatorio semanal - cuentas pendientes - $(date -u +%Y-%m-%d)" --body "Pendientes de Jomar esta semana:
+          - Poner la contraseña actual de Google en la tarjeta segura
+          - Hotmart: restablecer o poner la contraseña correcta
+          - TikTok Ads: contraseña correcta o restablecer
+          - Pedir a los 9 viajeros su nombre completo y fecha de nacimiento
+          - Decidir qué workflow de Pipedream apagar para prender Apartamentos Ocala
+          - Revisar el repo jarvis-automatizaciones: tendencias, finanzas, cine, ofertas, clima, mercados, empleos, vuelos y marketing del día"
