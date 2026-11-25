@@ -1,0 +1,39 @@
+name: Clima Ciales diario
+on:
+  schedule:
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  clima:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Clima de Ciales y guardar clima-ciales.md
+        run: |
+          python3 - <<'PY'
+          import datetime, json, urllib.request
+          url = ("https://api.open-meteo.com/v1/forecast?latitude=18.336&longitude=-66.47"
+                 "&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max"
+                 "&timezone=America%2FPuerto_Rico&forecast_days=3")
+          with urllib.request.urlopen(url, timeout=30) as resp:
+              d = json.load(resp)
+          now = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=4)
+          daily = d["daily"]
+          lines = [f"# Clima de Ciales - {now:%Y-%m-%d %H:%M} AST", "", "Fuente: Open-Meteo (sin clave, datos públicos)", ""]
+          for i, day in enumerate(daily["time"]):
+              lines.append(f"## {day}")
+              lines.append(f"- Máxima: {daily['temperature_2m_max'][i]}°C, mínima: {daily['temperature_2m_min'][i]}°C")
+              lines.append(f"- Probabilidad de lluvia: {daily['precipitation_probability_max'][i]}%")
+              lines.append("")
+          open("clima-ciales.md", "w", encoding="utf-8").write("\n".join(lines))
+          print("Clima guardado")
+          PY
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add clima-ciales.md
+          git diff --cached --quiet || git commit -m "Actualizar clima-ciales.md"
+          git push
