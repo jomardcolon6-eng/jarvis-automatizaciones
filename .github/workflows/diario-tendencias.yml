@@ -17,11 +17,16 @@ jobs:
       - name: Descargar tendencias de Google Trends (EE. UU.)
         run: |
           FECHA=$(date -u +%F)
-          curl -fsSL "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US" -o /tmp/tendencias.xml
+          RSS_URL="https://trends.google.com/trends/trendingsearches/daily/rss?geo=US"
+          if ! curl -fsSL "$RSS_URL" -o /tmp/tendencias.xml; then
+            echo "La URL antigua del RSS devolvio un error (404). Usando el RSS actual de Google Trends."
+            RSS_URL="https://trends.google.com/trending/rss?geo=US"
+            curl -fsSL "$RSS_URL" -o /tmp/tendencias.xml
+          fi
           {
             echo "# Tendencias diarias - $FECHA"
             echo ""
-            echo "Fuente: Google Trends (Estados Unidos), RSS publico."
+            echo "Fuente: Google Trends (Estados Unidos), RSS publico: $RSS_URL"
             echo ""
             echo "Actualizado: $FECHA (UTC)"
             echo ""
