@@ -1,0 +1,38 @@
+name: Empleos remotos
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  empleos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Obtener empleos remotos y guardar empleos-remotos.md
+        run: |
+          curl -fsSL -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36" -o feed.xml "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+          python3 - <<'PY'
+          import datetime, xml.etree.ElementTree as ET
+          now = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=4)
+          tree = ET.parse("feed.xml")
+          channel = tree.getroot().find("channel")
+          items = channel.findall("item")[:15]
+          lines = [f"# Empleos remotos - {now:%Y-%m-%d %H:%M} AST", "", "Fuente: https://weworkremotely.com/categories/remote-programming-jobs.rss", ""]
+          for it in items:
+              title = (it.findtext("title") or "").strip()
+              link = (it.findtext("link") or "").strip()
+              lines.append(f"- [{title}]({link})")
+          if not items:
+              raise SystemExit("No se encontraron empleos en el RSS")
+          open("empleos-remotos.md", "w", encoding="utf-8").write("\n".join(lines) + "\n")
+          print("Empleos guardados")
+          PY
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add empleos-remotos.md
+          git diff --cached --quiet || git commit -m "Actualizar empleos-remotos.md"
+          git push
