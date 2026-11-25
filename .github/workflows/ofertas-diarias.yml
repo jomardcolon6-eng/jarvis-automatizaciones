@@ -17,9 +17,15 @@ jobs:
         run: |
           curl -fsSL -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" -o feed.xml "https://slickdeals.net/newsearch.php?rss=1"
           python3 - <<'PY'
-          import datetime, xml.etree.ElementTree as ET
+          import datetime, urllib.request, xml.etree.ElementTree as ET
           root = ET.parse('feed.xml').getroot()
           items = root.findall('.//item')[:20]
+          if not items:
+              print('El RSS sin busqueda no trajo ofertas; usando la busqueda amplia del mismo RSS')
+              req = urllib.request.Request('https://slickdeals.net/newsearch.php?q=deal&rss=1', headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36'})
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  root = ET.fromstring(resp.read())
+              items = root.findall('.//item')[:20]
           if not items:
               raise SystemExit('No se encontraron ofertas en el RSS de Slickdeals')
           now = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=4)
