@@ -1,0 +1,60 @@
+name: Cripto diario
+
+on:
+  schedule:
+    - cron: '45 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cripto-diario:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar RSS de CoinDesk y generar cripto-diario.md
+        run: |
+          curl -fsSL -A "Mozilla/5.0" -o feed.xml "https://www.coindesk.com/arc/outboundfeeds/rss/"
+          python3 - <<'PY'
+          import datetime, xml.etree.ElementTree as ET
+          root = ET.parse('feed.xml').getroot()
+          def local(tag):
+              return tag.rsplit('}', 1)[-1]
+          def find_child(elem, name):
+              for child in elem:
+                  if local(child.tag) == name:
+                      return child
+              return None
+          items = [el for el in root.iter() if local(el.tag) in ('item', 'entry')]
+          items = items[:20]
+          if not items:
+              raise SystemExit('No se encontraron noticias en el RSS de CoinDesk')
+          now = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=4)
+          lines = [
+              f"# Criptomonedas - {now:%Y-%m-%d %H:%M} AST",
+              '',
+              'Fuente: https://www.coindesk.com/arc/outboundfeeds/rss/',
+              '',
+          ]
+          for item in items:
+              title_el = find_child(item, 'title')
+              title = (title_el.text or '').strip().replace('[', '(').replace(']', ')') if title_el is not None else ''
+              link_el = find_child(item, 'link')
+              link = ''
+              if link_el is not None:
+                  link = (link_el.text or '').strip() or link_el.get('href', '').strip()
+              if title and link:
+                  lines.append(f"- [{title}]({link})")
+          if len(lines) <= 4:
+              raise SystemExit('No se pudo extraer ninguna noticia con enlace')
+          open('cripto-diario.md', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+          print(f"Guardadas {len(lines) - 4} noticias en cripto-diario.md")
+          PY
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cripto-diario.md
+          git diff --cached --quiet || git commit -m "Actualizar cripto-diario.md"
+          git push
