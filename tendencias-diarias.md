@@ -1,8 +1,8 @@
-# Tendencias diarias - 2026-11-25
+# Tendencias diarias - 2026-11-26
 
 Fuente: Google Trends (Estados Unidos), RSS publico: https://trends.google.com/trending/rss?geo=US
 
-Actualizado: 2026-11-25 (UTC)
+Actualizado: 2026-11-26 (UTC)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
@@ -13,303 +13,303 @@ Actualizado: 2026-11-25 (UTC)
 		<link>https://trends.google.com/trending/rss?geo=US</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=US" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>atlético-mg vs corinthians</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn4GPkcknKBuSrdJ0AlD7lRUTfGf6H4s5LB9mg6fSugDU-xCVwyWamrt3ee9E</ht:picture>
-			<ht:picture_source>ge</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Atlético-MG x Corinthians: onde assistir ao vivo, horário e escalações</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://ge.globo.com/mg/futebol/brasileirao-serie-a/noticia/2026/11/25/atletico-mg-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn4GPkcknKBuSrdJ0AlD7lRUTfGf6H4s5LB9mg6fSugDU-xCVwyWamrt3ee9E</ht:news_item_picture>
-				<ht:news_item_source>ge</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Rebaixamento no Brasileirão 2026: veja quem pode cair</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://tnsul.com/2026/11/25/rebaixamento-brasileirao-2026-corinthians-gremio-inter/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25D3lkCHhgtHU4-kKfa7m9n9wfIVCKa31t2B6OCIpfEh7EWmRf3uq8zJLXwU</ht:news_item_picture>
-				<ht:news_item_source>Portal TN Sul</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Jogo do Vasco hoje (25) pelo Brasileirão: onde assistir ao vivo</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bol.uol.com.br/esporte/2026/11/25/jogo-do-vasco-hoje-25-pelo-brasileirao-onde-assistir-ao-vivo.htm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpV0_TZmoJLmOhMnCEX-zEeqX6GxAd64v_F38lS3oEZvs30E7PKRaaXjaFtLE</ht:news_item_picture>
-				<ht:news_item_source>BOL</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>jabari walker</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYewsuR92K_fKALEpDQIUmUEiLWpqdp24cLb_MhvnqgT0jZMc82B6bDzEazFg</ht:picture>
-			<ht:picture_source>NBC Sports</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Jabari Walker scores 10 points in spot start</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-23/jabari-walker-scores-10-points-in-spot-start</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYewsuR92K_fKALEpDQIUmUEiLWpqdp24cLb_MhvnqgT0jZMc82B6bDzEazFg</ht:news_item_picture>
-				<ht:news_item_source>NBC Sports</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Jabari Walker Posts 10 Points in 76ers&apos; Loss vs Trail Blazers on Nov 23</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://knup.com/sports/nba/player-news/performance/jabari-walker-performance-11-23-2026-715472/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUcrLL3It2Rkw01O-gBleJBIiPQSxow_EvClViC380w16OQb2gZv86k7KuXGk</ht:news_item_picture>
-				<ht:news_item_source>knup.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Trail Blazers 128-111 76ers (Nov 23, 2026) Game Recap</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.espn.com/nba/recap/_/gameId/401910037</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jaqQ0NpFhVZbTVJEBR2eOYDNcipdWMJYpMkw3iLDj_JeLPpY5Bs3wnX4sqc</ht:news_item_picture>
-				<ht:news_item_source>ESPN</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>unmanned combat aerial vehicle</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT__GUx8ALOFYVNyG9kCZknDxuP771TxX5UB9pTk4KvS6HA2i3_24zN72RLvMc</ht:picture>
-			<ht:picture_source>Yahoo</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Turkey Just Inducted the World&apos;s First Unmanned Fighter Jet</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yahoo.com/news/videos/turkey-just-inducted-worlds-first-131439884.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT__GUx8ALOFYVNyG9kCZknDxuP771TxX5UB9pTk4KvS6HA2i3_24zN72RLvMc</ht:news_item_picture>
-				<ht:news_item_source>Yahoo</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Turkish Kizilelma Fighter Drone Declared Operational</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.twz.com/air/turkish-kizilelma-fighter-drone-declared-operational</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAfRy7bmBjfLNVRDmVOQf3zBHlvROue-KxW2CT_42Yi9D4Sp6UmL4JcqjU5Lw</ht:news_item_picture>
-				<ht:news_item_source>TWZ</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Kizilelma, future of air warfare</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.aa.com.tr/en/opinion/kizilelma-future-of-air-warfare/4132678</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbttd3n4R6h0DHWqXtweMHpNFoLwCHmdT2MlXTBaaK5mYOihCfFVeFa7uub14</ht:news_item_picture>
-				<ht:news_item_source>Anadolu Ajansı</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>memphis basketball</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzRho6gL8TdDEHUqzWyq81gCQumiYctqwqCotJViFOIQaTphHwntQFYyQMhU</ht:picture>
-			<ht:picture_source>gopsusports.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>GAME DAY: Penn State MBB vs. Memphis</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://gopsusports.com/news/2026/11/24/game-day-penn-state-mbb-vs-memphis</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzRho6gL8TdDEHUqzWyq81gCQumiYctqwqCotJViFOIQaTphHwntQFYyQMhU</ht:news_item_picture>
-				<ht:news_item_source>gopsusports.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Memphis vs. Penn State: What to know for Tigers’ first Battle 4 Atlantis game</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://dailymemphian.com/article/68870/memphis-tigers-basketball-penn-state-preview</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhntK9MWOw4ILJN1zBZRipRGnJQ2szAxS-1byXR0dxfd6WzqzAHSAl-q0mhG0</ht:news_item_picture>
-				<ht:news_item_source>Daily Memphian</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Memphis basketball game vs Penn State delayed. What we know</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/11/25/memphis-basketball-penn-state-game-delayed-at-battle-4-atlantis/92961482007/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd3aXQsYRoy4pTwLFtHf43pyxDr6h3ZDWN6PPWCt9xkNMCEI6lkJ7vncktBVI</ht:news_item_picture>
-				<ht:news_item_source>The Commercial Appeal</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>byu vs providence prediction</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFqYQ817V5me05EpGbhi6BrQPRj6DM-aTxAHZl5elqjJeSNgPRL2HVkZEWBBw</ht:picture>
-			<ht:picture_source>Deseret News</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>How to watch No. 19 BYU play Providence in the Maui Invitational</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.deseret.com/sports/2026/11/25/byu-basketball-providence-maui-invitational-how-to-watch/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFqYQ817V5me05EpGbhi6BrQPRj6DM-aTxAHZl5elqjJeSNgPRL2HVkZEWBBw</ht:news_item_picture>
-				<ht:news_item_source>Deseret News</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Previewing BYU Basketball vs Providence in Maui Invitational</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.yahoo.com/mens-college-basketball/articles/previewing-byu-basketball-vs-providence-170005027.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQwS2xFxk-F6dx4Ec5hCQJiDA7Mfq-Vuhp8f3fLvoV2Q41vpJ2TvS1jDXRvBM</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>No. 19 BYU Cougars square off against the Providence Friars</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.foxsports.com/articles/cbk/no-19-byu-cougars-square-off-against-the-providence-friars</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4s4BZOkTNXN3YIPa9D2mGE41CMQSYHPibv39-9pCCL84ruNU6IK4Wzep74lk</ht:news_item_picture>
-				<ht:news_item_source>FOX Sports</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>best thanksgiving movies</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeMzF_QHSRzO6GD7eG9ltFGwEMFYCTfsOrwzVeZPA3HraI26MV4N-BU7pdd4Q</ht:picture>
-			<ht:picture_source>WSJ</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>What to Watch This Thanksgiving</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.wsj.com/arts-culture/television/what-to-watch-this-thanksgiving-4b858dd2</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeMzF_QHSRzO6GD7eG9ltFGwEMFYCTfsOrwzVeZPA3HraI26MV4N-BU7pdd4Q</ht:news_item_picture>
-				<ht:news_item_source>WSJ</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>The 18 Best Movies, TV Shows, and Games to Watch Thanksgiving Weekend</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-football-thanksgiving-2026.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgNdfSyTPQnP5tRKIFMlRHfS--2fxmY-YSS-2BT2ne949PVwH5oroPtx06Z8</ht:news_item_picture>
-				<ht:news_item_source>Vulture</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Looking for something to watch this Thanksgiving? Here’s your ultimate holiday streaming guide.</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bostonglobe.com/2026/11/25/arts/thanksgiving-streaming-guide/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ4VhqywtJjILwsR5tufXn51Dtdz4De7OeKVhFvpnp4U1Rdv8icTPfXceHHjw</ht:news_item_picture>
-				<ht:news_item_source>The Boston Globe</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>north dakota basketball</title>
+			<title>tehran</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVoFIzuwYVdIUp8rPuEEdXTpoKrvUh2FfH4Ugs0vagYDF51P3fqfy4vAQs1_w</ht:picture>
-			<ht:picture_source>Sportsgambler</ht:picture_source>
+			<pubDate>Thu, 26 Nov 2026 04:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRJpyNw5QC_Bq5D1Ofxd0Ez8ACjD0GtmnEDfd5plkT0H-Tv5nhoFTq_ZlLaKw</ht:picture>
+			<ht:picture_source>The Washington Post</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>North Dakota vs Detroit Prediction, Picks &amp; Odds | 24 Nov 2026</ht:news_item_title>
+				<ht:news_item_title>Iranians’ frustrations grow as Tehran, under U.S. pressure, imposes austerity</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.sportsgambler.com/betting-tips/basketball/north-dakota-fighting-hawks-vs-detroit-mercy-titans-prediction-odds-2026-11-24/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVoFIzuwYVdIUp8rPuEEdXTpoKrvUh2FfH4Ugs0vagYDF51P3fqfy4vAQs1_w</ht:news_item_picture>
-				<ht:news_item_source>Sportsgambler</ht:news_item_source>
+				<ht:news_item_url>https://www.washingtonpost.com/world/2026/11/26/tehran-imposes-austerity-under-us-pressure-iranians-frustrations-grow/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRJpyNw5QC_Bq5D1Ofxd0Ez8ACjD0GtmnEDfd5plkT0H-Tv5nhoFTq_ZlLaKw</ht:news_item_picture>
+				<ht:news_item_source>The Washington Post</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Fighting Hawks Defeat Detroit Mercy to Kick Off Cancun Challenge</ht:news_item_title>
+				<ht:news_item_title>Iran rations electricity: How deeply are US sanctions, blockade biting?</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://fightinghawks.com/news/2026/11/24/mens-basketball-fighting-hawks-defeat-detroit-mercy-to-kick-off-cancun-challenge.aspx</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE-IfdGICxBRqp7mL2BkXf8j4UdDwSbNu3_qL7ElGlIcVSdW2f832bzukct6Q</ht:news_item_picture>
-				<ht:news_item_source>University of North Dakota Athletics</ht:news_item_source>
+				<ht:news_item_url>https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTErIHGa1iGXMNXAWskDTBybGKE67NA5BxNI6jCTmt6PXvjFx7QzRGrkXvFHU</ht:news_item_picture>
+				<ht:news_item_source>Al Jazeera</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>North Dakota Fighting Hawks vs Detroit Mercy Titans Picks, Prop Bets For November 24, 2026 - NCAAB Predictions</ht:news_item_title>
+				<ht:news_item_title>‘Scenes you wouldn’t see even in Africa’: Video of Iran’s president sparks outrage</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.covers.com/sport/basketball/ncaab/matchup/390751/picks</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvb58gaEEq43FwJ7Ke5R3pq8Nolpnb6bFf4HRmN58DQ3xU82WP3XF2iWIYnbw</ht:news_item_picture>
-				<ht:news_item_source>Covers.com</ht:news_item_source>
+				<ht:news_item_url>https://www.ynetnews.com/article/hjzx7gs17g</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKkKaiVwq5QZ_p4ke6wYjCDdzbmN9iN8l2Z89gts1NcqUsNhWRoI9NhXVZ7Ns</ht:news_item_picture>
+				<ht:news_item_source>Ynetnews</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>is lowes open on thanksgiving</title>
+			<title>washington</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc7_bFhyDb6wBBabN9G9XCDPTnEleVrKoSVIEAMASBoG1-eC77FkNcfkQzJi8</ht:picture>
-			<ht:picture_source>Mashable</ht:picture_source>
+			<pubDate>Thu, 26 Nov 2026 04:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvgA2y0bCBXJ2DwUk0IFi8OdgmJ6SnC2lmmECR-fEduAdBchc1FHTdwVQ_pOg</ht:picture>
+			<ht:picture_source>KING5.com</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Lowe&apos;s Black Friday bucket giveaway 2026: Prizes and start time</ht:news_item_title>
+				<ht:news_item_title>Coastal flooding possible in areas of western Washington</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://mashable.com/life/lowes-black-friday-free-mystery-bucket-giveaway-2026</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc7_bFhyDb6wBBabN9G9XCDPTnEleVrKoSVIEAMASBoG1-eC77FkNcfkQzJi8</ht:news_item_picture>
-				<ht:news_item_source>Mashable</ht:news_item_source>
+				<ht:news_item_url>https://www.king5.com/article/weather/severe-weather/coastal-flooding-possible-areas-of-western-washington/281-dd0d2672-4cbb-48b3-a872-094ef23a950b</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvgA2y0bCBXJ2DwUk0IFi8OdgmJ6SnC2lmmECR-fEduAdBchc1FHTdwVQ_pOg</ht:news_item_picture>
+				<ht:news_item_source>KING5.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Is Lowe’s open on Thanksgiving 2026?</ht:news_item_title>
+				<ht:news_item_title>Extreme tides start to land on Washington coast</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cleveland.com/news/2026/11/is-lowes-open-on-thanksgiving-2026.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErniqawHZk7gXwfTPt2cxahwwN42i5GJrV3wk2_qPGVoSz9siaaUj9KuZqAk</ht:news_item_picture>
-				<ht:news_item_source>Cleveland.com</ht:news_item_source>
+				<ht:news_item_url>https://www.kuow.org/environment/2026-11-24/extreme-tides-start-to-land-on-washington-coast</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjPGnRyjmDqwIvX-diarn-78VEflPekcG6-qaMovQLK_7Crg82OUUbii8r1co</ht:news_item_picture>
+				<ht:news_item_source>KUOW</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Everything You Need to Know About Lowe’s Thanksgiving Hours</ht:news_item_title>
+				<ht:news_item_title>PSE preps for Thanksgiving storm impacts</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://dengarden.com/news/lowes-thanksgiving-hours-2026</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL7UT7O1UDZ57xPvj5RvQqs-uroB8mrsV_1fcZBT_5JrAk1wh01QWk6bkv9cY</ht:news_item_picture>
-				<ht:news_item_source>Dengarden</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>champions league table</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSVkl_Uy_FJ5TTCY8BJTG8qrLb5UW36dCtjyW3Lm8HqUXFk94Ct_s9bt3gkNQ</ht:picture>
-			<ht:picture_source>BBC</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Man City 2-2 Napoli: Ayyoub Bouaddi and Rayan Cherki score for hosts</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bbc.com/sport/football/live/c3j4rne5ny5et</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSVkl_Uy_FJ5TTCY8BJTG8qrLb5UW36dCtjyW3Lm8HqUXFk94Ct_s9bt3gkNQ</ht:news_item_picture>
-				<ht:news_item_source>BBC</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFRPVwhlMUvc9HgHQg87sZ0gsDaKU2gX0eXQFMo5jW7X6tMp0KQd5Em5xfiYY</ht:news_item_picture>
-				<ht:news_item_source>ESPN</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Manchester City 2 Napoli 2: Cherki and Doku provide a spark, but City still labour - The Athletic</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nytimes.com/athletic/7803364/2026/11/24/manchester-city-2-napoli-2-cherki-doku-de-bruyne/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGZGrmCBBwOowGm0WKG1UXAPqMtYtsmfpvVTw2TOQcp5QW6_1-FALaPZxpIf4</ht:news_item_picture>
-				<ht:news_item_source>The New York Times</ht:news_item_source>
+				<ht:news_item_url>https://www.rentonreporter.com/2026/11/25/pse-preps-for-thanksgiving-storm-impacts/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8wMkGJ6NCVavODSELVobAkTjqYY6zXhjDm_Y1tuLxogvAx_iHT0PUYqQBnhA</ht:news_item_picture>
+				<ht:news_item_source>Renton Reporter</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>elly de la cruz</title>
+			<title>winn dixie thanksgiving hours</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Thu, 26 Nov 2026 04:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmXTUaogAIVzouiaawgJ_P2vaDx12D9p2WlWF6KvHomKE0PS-L2gGbaGocjR4</ht:picture>
+			<ht:picture_source>WUSF</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>In Apopka, busy food distribution event reflects chronic food insecurity challenge</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.wusf.org/health-news-florida/2026-11-15/in-apopka-busy-food-distribution-event-reflects-chronic-food-insecurity-challenge</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmXTUaogAIVzouiaawgJ_P2vaDx12D9p2WlWF6KvHomKE0PS-L2gGbaGocjR4</ht:news_item_picture>
+				<ht:news_item_source>WUSF</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>These are Winn-Dixie’s Thanksgiving Hours</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://parade.com/food/winn-dixie-thanksgiving-hours-2026</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmPvvYaW-QhgwO4Rb5gz2RkB1nBweJxnbb02fwv4EbS9cOgUqVIAEa1qtQkE4</ht:news_item_picture>
+				<ht:news_item_source>Parade Magazine</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Military families received Thanksgiving meals from Winn-Dixie and USO Jacksonville</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.actionnewsjax.com/news/local/military-families-received-thanksgiving-meals-winn-dixie-uso-jacksonville/I7LWHHR5VBEHXB2ZIXU3NCCNXM/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0BDa8aVYxsnyyE62oW8SpKnh2y4W7XcwvyWYsmtmr370uaMJrxMaXeipHoKg</ht:news_item_picture>
+				<ht:news_item_source>Action News Jax</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>espncricinfo</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Thu, 26 Nov 2026 04:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZxAuEbuY53OIUM1Dq9aUaII8F6HR2L9ZvhMy0d2dRo5FUB_6aF1Mx2dL8AE</ht:picture>
+			<ht:picture_source>Cricinfo</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>New Zealand and India hope Test cricket is in a giving mood at Hagley Oval</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-test-1539443/match-preview</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZxAuEbuY53OIUM1Dq9aUaII8F6HR2L9ZvhMy0d2dRo5FUB_6aF1Mx2dL8AE</ht:news_item_picture>
+				<ht:news_item_source>Cricinfo</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>NZ vs IND, 2nd Test: Bowling coach Morne Morkel wants India to bowl without &apos;desperation&apos; in Christchurch decider</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cricbuzz.com/cricket-news/141066/nz-vs-ind-2nd-test-bowling-coach-morne-morkel-wants-india-to-bowl-without-desperation-in-christchurch-decider-cricbuzzcom</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdwLnEkl3jUM6bFR8zGvkpI5ejK0Qp0_RhyrzQqhmXI9AHYl1NnwZCkKCM78Y</ht:news_item_picture>
+				<ht:news_item_source>Cricbuzz</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Will Gambhir-Gill Include Siraj For 2nd Test?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.rediff.com/cricket/report/will-gambhir-gill-include-siraj-for-2nd-test/20261125.htm</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPAwoOYmbrQQkt_9M3QHcZJZ23FfPsYvfiOvEtVbyvqsVC-YJA3TvCDODLGzc</ht:news_item_picture>
+				<ht:news_item_source>Rediff.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>is food city open on thanksgiving</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Thu, 26 Nov 2026 04:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwX_Snf3NZayvBhvbwYiBNy-3d5pZdDKU_vCaujZOH1sbYufWXx2HAb8Nq2Aw</ht:picture>
+			<ht:picture_source>Knoxville News Sentinel</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Which Knoxville grocery stores are open on Thanksgiving? A full list</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.knoxnews.com/story/grocery/shopping/2026/11/26/knoxville-grocery-stores-open-on-thanksgiving-2026-hours-and-closures/92762168007/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwX_Snf3NZayvBhvbwYiBNy-3d5pZdDKU_vCaujZOH1sbYufWXx2HAb8Nq2Aw</ht:news_item_picture>
+				<ht:news_item_source>Knoxville News Sentinel</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Knox Area Transit will be closed on Thanksgiving</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.wbir.com/article/news/community/transportation/knox-area-transit-closed-on-thanksgiving/51-4bc329d4-0f48-419f-b2a9-dbd9acd2f959</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbt01Nzaa6FNdbmziToQEt0nK6Y2cQhyq_3yB6ft_gfJ0rap-9L3ojhBFyqGw</ht:news_item_picture>
+				<ht:news_item_source>WBIR</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>City of Knoxville Thanksgiving Closures &amp; Holiday Happenings</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://insideofknoxville.com/2026/11/city-of-knoxville-thanksgiving-closures-holiday-happenings/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIDwfjqAG3Rf4_TH7rnBZnsbbqnweU6gNmgq518_yw9Oi8gZemMKi1H8RNP8A</ht:news_item_picture>
+				<ht:news_item_source>Inside of Knoxville</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>aeropuerto internacional de miami</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Thu, 26 Nov 2026 04:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbkd1Vwu6TRb3hbOJFKSgfbz4hMdnT8-LyQeUrulUqlnaQ7gEIZt9qYIKxuE</ht:picture>
+			<ht:picture_source>AP News</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Avión FedEx se sale de pista en aeropuerto de Miami, que cierra temporalmente casi todas sus pistas</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://apnews.com/article/miami-aeropuerto-fedex-avion-sale-de-pista-693f96d01ac09ba0e31e44cabcf6a8ca</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbkd1Vwu6TRb3hbOJFKSgfbz4hMdnT8-LyQeUrulUqlnaQ7gEIZt9qYIKxuE</ht:news_item_picture>
+				<ht:news_item_source>AP News</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Retrasos en vuelos luego de que un avión de FedEx se saliera de la pista en aeropuerto de Miami</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.telemundo51.com/video/noticiero-t51/retrasos-en-vuelos-luego-de-que-un-avion-de-fedex-se-saliera-de-la-pista-en-aeropuerto-de-miami/2854430/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwBK04i5iSZ6B6K6DK8-rG7m26zvUFiRydnIw0O1ZGVKFkxgSgFeqig7j3cN8</ht:news_item_picture>
+				<ht:news_item_source>Telemundo Miami</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Lo mejor de N+ Univision de la noche | miércoles 25 de noviembre de 2026</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.univision.com/noticias/lo-mejor-de-n-univision-de-la-noche-miercoles-25-de-noviembre-de-2026-video</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9h82sb4BC5RA1Q1bbQGgW1HE1S8H6whJCLwbVhDM30S2Fn5e979Uoc4Kiui0</ht:news_item_picture>
+				<ht:news_item_source>Univision</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>is weis open on thanksgiving</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Thu, 26 Nov 2026 04:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgPhcKo_mI_DxI36c7wIk1mZF8OKZmmMV2t-yU1aoNZtGvq9L1tQ6zih47018</ht:picture>
+			<ht:picture_source>StateCollege.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>What Grocery Stores Are Open on Thanksgiving? Here’s a Look Around Centre County</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.statecollege.com/articles/business/what-grocery-stores-are-open-on-thanksgiving-heres-a-look-around-centre-county/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgPhcKo_mI_DxI36c7wIk1mZF8OKZmmMV2t-yU1aoNZtGvq9L1tQ6zih47018</ht:news_item_picture>
+				<ht:news_item_source>StateCollege.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>What’s open and closed on Thanksgiving Day in the Susquehanna Valley?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.wgal.com/article/whats-open-closed-thanksgiving-day-pennsylvania/74518526</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVbSPrEMDZtnVc6LLm-wXSrTHt8wBayyv7fkZbrpIUsM4r3WRqyx0Q-Zow480</ht:news_item_picture>
+				<ht:news_item_source>WGAL</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Need some last-minute groceries? Here’s what to know for Thanksgiving shopping in central Pa.</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.pennlive.com/news/2026/11/need-some-last-minute-groceries-heres-what-to-know-for-thanksgiving-shopping-in-central-pa.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0Dcs9hzAeLYruTJy6-1U-_1oIB-JWGBBtbh4QdMNvekbHxhpVTiwVivkPRFs</ht:news_item_picture>
+				<ht:news_item_source>PennLive.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>matt damon family home life</title>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Thu, 26 Nov 2026 04:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3N0L2FwNGZ6vc2BZ97-ngRhb-0PeFlhMG9oCLOoyR3sgqL4M8fT0CjvhJkHM</ht:picture>
+			<ht:picture_source>People.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Matt Damon Says Returning Home After Filming The Odyssey Was ‘Difficult’ as He Adjusted to Family Life (Exclusive)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://people.com/matt-damon-adjusting-family-life-after-filming-the-odyssey-exclusive-12266199</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3N0L2FwNGZ6vc2BZ97-ngRhb-0PeFlhMG9oCLOoyR3sgqL4M8fT0CjvhJkHM</ht:news_item_picture>
+				<ht:news_item_source>People.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Matt Damon says it was ‘difficult’ returning home to his family after ‘The Odyssey’ isolation</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://ew.com/matt-damon-difficulty-returning-home-family-after-the-odyssey-isolation-12279732</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeLEblOsF0dC-FB62TH_gUXTz7RzoK1dq8Xuie0qPDJnwuERdaA14O_0V88SM</ht:news_item_picture>
+				<ht:news_item_source>Entertainment Weekly</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Matt Damon reveals why it was difficult to return home after filming The Odyssey</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.the-independent.com/arts-entertainment/films/news/matt-damon-the-odyssey-christopher-nolan-b3091661.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEe-EnzmYzGm4qZIVxncD-xPZKPDWEz-tbgoa4vDNgfkvHj5aOW7MAuqJlgpE</ht:news_item_picture>
+				<ht:news_item_source>The Independent</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>matt bevin child support ruling</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Thu, 26 Nov 2026 04:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE2t1pAFPzxzNKgkmpaBSic2RUWhfOwBOQj1T2VKSkcjaKl8OrZV4NGqubrEM</ht:picture>
+			<ht:picture_source>WLKY</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Judge rules Matt Bevin does not owe adopted son child support</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.wlky.com/article/matt-bevin-adopted-son-child-support-ruling/74536486</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE2t1pAFPzxzNKgkmpaBSic2RUWhfOwBOQj1T2VKSkcjaKl8OrZV4NGqubrEM</ht:news_item_picture>
+				<ht:news_item_source>WLKY</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Matt Bevin does not owe adopted son child support, judge rules</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.courier-journal.com/story/news/politics/2026/11/25/matt-bevin-child-support-request-denied/92965159007/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Lv3eQC9vfrjXWbjkDp5jdmYHRdM3w2dNX0yjevEHkJvjDEtQh2ujDeld7do</ht:news_item_picture>
+				<ht:news_item_source>The Courier-Journal</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Family court judge makes ruling in former Kentucky Gov. Bevin’s child support case</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.wdrbwave.com/2026/11/26/family-court-judge-makes-ruling-former-gov-bevins-child-support-case/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBz0QWrnHSS85F4jM1c5l4SG1-5gu4WU3UMQmN0sxc71LO966VXi3nrbDdd-g</ht:news_item_picture>
+				<ht:news_item_source>WDRB</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>milwaukee brewers</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Wed, 25 Nov 2026 14:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOgCrgz2OrtGRxaT9P26YDz6lxEEmnopDDBL1c2tuOZldUhP3RcRvChNH90Ic</ht:picture>
-			<ht:picture_source>ESPN</ht:picture_source>
+			<pubDate>Thu, 26 Nov 2026 04:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP-5Cbmk8gKx_fsL2xfI5VAF05jI-XgDJod5bemkoCQQ9sIVcDXAZj_GhdfgU</ht:picture>
+			<ht:picture_source>MLB.com</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Trades we want to see before MLB lockout</ht:news_item_title>
+				<ht:news_item_title>Brewers bring back righty Senzatela on 1-year contract</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.espn.com/mlb/story/_/id/50541491/offseason-trades-lockout-red-sox-yankees</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOgCrgz2OrtGRxaT9P26YDz6lxEEmnopDDBL1c2tuOZldUhP3RcRvChNH90Ic</ht:news_item_picture>
-				<ht:news_item_source>ESPN</ht:news_item_source>
+				<ht:news_item_url>https://www.mlb.com/news/antonio-senzatela-brewers-contract</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP-5Cbmk8gKx_fsL2xfI5VAF05jI-XgDJod5bemkoCQQ9sIVcDXAZj_GhdfgU</ht:news_item_picture>
+				<ht:news_item_source>MLB.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>The Padres, Phillies, Astros and Rangers need to hurry up and make some offseason moves</ht:news_item_title>
+				<ht:news_item_title>Brewers re-sign one of their Trade Deadline additions in first free agent sign of offseason</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.yahoo.com/mlb/article/the-padres-phillies-astros-and-rangers-need-to-hurry-up-and-make-some-offseason-moves-200822718.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bkBJL0j5LXIWE9yMqc8iO4ymQ0hn8QPhNaXQO2nbAujRpxG3JiMXNgXjfc0</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
+				<ht:news_item_url>https://www.brewcrewball.com/milwaukee-brewers-news/93134/brewers-re-sign-one-of-their-trade-deadline-additions-in-first-free-agent-sign-of-offseason</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAdDT7SgthWgfHubzy1vgIqPgMK3Cw5dIaTsu9Z8dtDt1kOSCJVt1g9D0Rk14</ht:news_item_picture>
+				<ht:news_item_source>Brew Crew Ball</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Diamondbacks should trade for Jarren Duran ahead of looming MLB lockout, ESPN expert says</ht:news_item_title>
+				<ht:news_item_title>Brewers Sign Antonio Senzatela</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://arizonasports.com/mlb/arizona-diamondbacks/diamondbacks-should-trade-for-jarren-duran-ahead-of-looming-mlb-lockout-espn-expert-says</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9C-atWovx5x-BDCUxwjfsa4MvKV_GG2Aas9SwemkQnu3Dh3Yy3CY4sVO5Y7Q</ht:news_item_picture>
-				<ht:news_item_source>Arizona Sports</ht:news_item_source>
+				<ht:news_item_url>https://www.mlbtraderumors.com/2026/11/brewers-sign-antonio-senzatela.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUv_O5r7hqeSEFbS2FthQ_POIOwEHhTqvV57rmsMsHIBTgmM2gxWp0gcOx-60</ht:news_item_picture>
+				<ht:news_item_source>MLB Trade Rumors</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
