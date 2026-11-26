@@ -83,4 +83,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cursos-diario.md
           git diff --cached --quiet || git commit -m "Actualizar cursos-diario.md"
+          git pull --rebase
           git push
