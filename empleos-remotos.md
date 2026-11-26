@@ -1,7 +1,9 @@
-# Empleos remotos - 2026-11-25 19:42 AST
+# Empleos remotos - 2026-11-26 10:11 AST
 
 Fuente: https://weworkremotely.com/categories/remote-programming-jobs.rss
 
+- [Karat: Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer)
+- [Golden 1 Credit Union: Web Applications Programmer II (Sitecore Development Required)](https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required)
 - [EPAM Systems: Senior Web Application Security Engineer](https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer)
 - [Vertican: Senior Applied AI Engineer, Document Intelligence](https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence)
 - [Toptal: Cryptography Specialist for AI lab](https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab)
@@ -15,5 +17,3 @@ Fuente: https://weworkremotely.com/categories/remote-programming-jobs.rss
 - [Custom Mechanical Solutions: Quality and Reliability Engineer](https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer)
 - [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
 - [WelcomeHome Software: Senior Software Engineer](https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer)
-- [Knock: Lending Manager (Front End) - Remote](https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote)
-- [ZoomInfo Technologies LLC: Principal Product Management, Growth](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth)
