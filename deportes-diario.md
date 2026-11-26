@@ -2,18 +2,18 @@
 
 Fuente: API pública de ESPN (https://site.api.espn.com) — respaldo, porque el RSS de ESPN no respondió desde el ejecutor de GitHub Actions
 
-- [2026 NBA Cup: Schedule, format, groups, updates and more](https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates) - 2026-11-26T00:53:00Z
-- [Rams vs. Packers: Week 12 NFL game highlights](https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays) - 2026-11-26T00:49:57Z
-- [MLB free agency tracker: 2026-27 offseason trades, moves](https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027) - 2026-11-26T00:48:16Z
-- [LeBron James has his 1st triple-double for the 76ers in a win over the Heat](http://www.espn.com/nba/recap?gameId=401909317) - 2026-11-26T00:42:33Z
-- [2026-27 MLB free agency, trade grades: Offseason analysis](https://www.espn.com/mlb/story/_/id/50473334/2026-27-offseason-free-agency-trade-grades) - 2026-11-26T00:41:05Z
-- [76ers' Jaylen Brown exits with recurrence of hamstring issue](https://www.espn.com/nba/story/_/id/50599296/76ers-jaylen-brown-exits-recurrence-hamstring-issue) - 2026-11-26T00:40:58Z
-- [Sources: Orioles to bring Luis Robert Jr. back on 1-year, $12M deal](https://www.espn.com/mlb/story/_/id/50599469/sources-orioles-luis-robert-jr-agree-1-year-12m-deal) - 2026-11-26T00:39:44Z
-- [Patriots-Chargers shaping up to be battle of backup QBs for 2 of AFC's biggest disappointments](http://www.espn.com/nfl/preview?gameId=401873093) - 2026-11-26T00:38:32Z
-- [Bengals look to get back on track when they host the Saints on a short week](http://www.espn.com/nfl/preview?gameId=401873087) - 2026-11-26T00:37:33Z
-- [Sources: Rockies agree to 2-year, $32M deal with David Peterson](https://www.espn.com/mlb/story/_/id/50599272/sources-rockies-agree-2-year-32m-deal-lhp-peterson) - 2026-11-26T00:27:13Z
-- [Purdy and the 49ers prepare for another tough test against Seahawks' stout defense](http://www.espn.com/nfl/preview?gameId=401873091) - 2026-11-26T00:25:33Z
-- [Andoni Iraola: Alexander Isak in a 'great moment' after brace vs. Club Brugge](https://www.espn.com/soccer/story/_/id/50598768/andoni-iraola-alexander-isak-great-moment-liverpool) - 2026-11-26T00:23:46Z
-- [Dodgers' Ben Casparius has Tommy John surgery](https://www.espn.com/mlb/story/_/id/50599246/dodgers-ben-casparius-tommy-john-surgery) - 2026-11-26T00:21:04Z
-- [Jaguars are simplifying the operation in hopes of bouncing back against the woeful Titans](http://www.espn.com/nfl/preview?gameId=401873090) - 2026-11-26T00:17:34Z
-- [Man United's costly errors overshadow early progress under Mauricio Pochettino](https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting) - 2026-11-26T00:14:27Z
+- [Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC](https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes) - 2026-11-26T11:00:03Z
+- [How Jeffery Simmons changed the Bears' defensive identity](https://www.espn.com/nfl/story/_/id/50597866/bears-jeffery-simmons-defense-super-bowl) - 2026-11-26T11:00:01Z
+- [Maple Leafs take on the Bruins in Atlantic Division action](http://www.espn.com/nhl/preview?gameId=401892795) - 2026-11-26T09:11:48Z
+- [Golden Knights take on the Sharks after Connelly's 2-goal showing](http://www.espn.com/nhl/preview?gameId=401892805) - 2026-11-26T09:11:47Z
+- [Oilers bring 4-game losing streak into matchup against the Kraken](http://www.espn.com/nhl/preview?gameId=401892809) - 2026-11-26T09:11:46Z
+- [Devils host the Flames after shootout victory](http://www.espn.com/nhl/preview?gameId=401892796) - 2026-11-26T09:11:45Z
+- [Ducks play the Kings after Killorn's 2-goal showing](http://www.espn.com/nhl/preview?gameId=401892804) - 2026-11-26T09:11:44Z
+- [Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven](https://www.espn.com/soccer/story/_/id/50602698/transfer-rumors-news-manchester-united-barcelona-heaven) - 2026-11-26T08:57:49Z
+- [Packers' Parsons calls for accountability after Rams run wild](https://www.espn.com/nfl/story/_/id/50602564/packers-micah-parsons-accountability-rams-return) - 2026-11-26T08:31:09Z
+- [Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions](https://www.espn.com/soccer/story/_/id/50592994/viktor-gyokeres-arsenal-premier-league-manchester-city) - 2026-11-26T07:22:52Z
+- [Clippers host Pelicans Friday for NBA Cup group stage game](http://www.espn.com/nba/preview?gameId=401909335) - 2026-11-26T07:03:44Z
+- [Nuggets visit Jazz Friday in NBA Cup group stage](http://www.espn.com/nba/preview?gameId=401909334) - 2026-11-26T07:03:43Z
+- [76ers visit Pacers Friday in NBA Cup group stage](http://www.espn.com/nba/preview?gameId=401909328) - 2026-11-26T07:03:41Z
+- [Warriors visit Trail Blazers Friday in NBA Cup group stage](http://www.espn.com/nba/preview?gameId=401909336) - 2026-11-26T07:03:40Z
+- [Raptors and Nets meet Friday in NBA Cup group stage](http://www.espn.com/nba/preview?gameId=401909329) - 2026-11-26T07:03:39Z
