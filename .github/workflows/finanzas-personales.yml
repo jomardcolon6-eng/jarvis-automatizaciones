@@ -1,0 +1,58 @@
+name: Finanzas personales
+
+on:
+  schedule:
+    - cron: '30 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  finanzas-personales:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar y generar finanzas-personales.md
+        run: |
+          python3 - <<'PY'
+          import urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          urls = ['https://www.nerdwallet.com/feed', 'https://www.nerdwallet.com/blog/feed/']
+          items = []
+          fuente = ''
+          for url in urls:
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0', 'Accept': 'application/rss+xml, application/xml, */*'})
+                  data = urllib.request.urlopen(req, timeout=30).read()
+                  print(f'Probado {url}: {len(data)} bytes')
+                  root = ET.fromstring(data)
+                  found = root.findall('.//item')[:15]
+                  if found:
+                      items = found
+                      fuente = url
+                      break
+                  print(f'Sin articulos en {url}')
+              except Exception as e:
+                  print(f'Fallo {url}: {e}')
+          if not items:
+              raise SystemExit('Ningun RSS de NerdWallet devolvió artículos')
+          ahora = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+          lines = ['# Finanzas personales', '', f'Actualizado: {ahora} (7:30 AM AST)', '', f'Fuente: NerdWallet — {fuente}', '']
+          for it in items:
+              t = (it.findtext('title') or '').strip()
+              l = (it.findtext('link') or '').strip()
+              d = (it.findtext('pubDate') or '').strip()
+              lines.append(f'- [{t}]({l})')
+              if d:
+                  lines.append(f'  - Publicado: {d}')
+          open('finanzas-personales.md', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+          print(f'Artículos guardados: {len(items)} desde {fuente}')
+          PY
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add finanzas-personales.md
+          git diff --cached --quiet || git commit -m "Actualizar finanzas-personales.md"
+          git push
