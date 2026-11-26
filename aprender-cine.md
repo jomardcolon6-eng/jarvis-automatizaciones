@@ -1,7 +1,8 @@
-# Aprender cine - 2026-11-25 19:34 AST
+# Aprender cine - 2026-11-26 10:53 AST
 
 Fuente: https://nofilmschool.com/rss.xml
 
+- [New to After Effects? These Workflow Tips Can Help Editors Work Faster](https://nofilmschool.com/new-to-after-effects-these-workflow-tips-can-help-editors-work-faster)
 - [What Was David Fincher's 'Star Wars' Pitch?](https://nofilmschool.com/david-fincher-star-wars-2678528463)
 - [The State of Indie Producing and Financing Plus AFM '26 Takeaways](https://nofilmschool.com/state-of-indie-producing-financing)
 - [One of Sigma’s Best Zoom Lenses Gets a Nice Holiday Savings Deal With a $200 Discount](https://nofilmschool.com/sigma-lens-holiday-savings)
@@ -21,4 +22,3 @@ Fuente: https://nofilmschool.com/rss.xml
 - [The 7 Ingredients Every Great Script Needs](https://nofilmschool.com/michael-weiss-seven-story-ingredients)
 - [How To Stand Out as a Writer in the Age of AI](https://nofilmschool.com/how-to-write-better-during-the-ai-boom)
 - [Barbara Eden’s 5 Most Memorable Movie Performances, Ranked](https://nofilmschool.com/best-barbara-eden-movies)
-- [The Symbolism of Autumn in Queer Cinema](https://nofilmschool.com/autumn-symbolism-queer-cinema)
