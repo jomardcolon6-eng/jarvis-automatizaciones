@@ -2,6 +2,7 @@
 
 Fuente: https://nofilmschool.com/rss.xml
 
+- [New to After Effects? These Workflow Tips Can Help Editors Work Faster](https://nofilmschool.com/new-to-after-effects-these-workflow-tips-can-help-editors-work-faster) - Wed, 25 Nov 2026 20:30:03 +0000
 - [What Was David Fincher's 'Star Wars' Pitch?](https://nofilmschool.com/david-fincher-star-wars-2678528463) - Wed, 25 Nov 2026 20:00:03 +0000
 - [The State of Indie Producing and Financing Plus AFM '26 Takeaways](https://nofilmschool.com/state-of-indie-producing-financing) - Wed, 25 Nov 2026 19:30:03 +0000
 - [One of Sigma’s Best Zoom Lenses Gets a Nice Holiday Savings Deal With a $200 Discount](https://nofilmschool.com/sigma-lens-holiday-savings) - Wed, 25 Nov 2026 19:00:02 +0000
@@ -16,4 +17,3 @@ Fuente: https://nofilmschool.com/rss.xml
 - [3 Screenwriting Lessons From Thanksgiving Movies](https://nofilmschool.com/screenwriting-lessons-from-thanksgiving-movies) - Tue, 24 Nov 2026 20:00:02 +0000
 - [The Chroma Awards Are Back as ElevenLabs’ Flagship Competition for AI Creators is Live](https://nofilmschool.com/chroma-awards-season-2) - Tue, 24 Nov 2026 19:30:02 +0000
 - [The Panasonic LUMIX GH7 Drops Well Below $2,000 With New Holiday Savings Deal](https://nofilmschool.com/panasonic-lumix-gh7-holiday-savings-deal) - Tue, 24 Nov 2026 19:06:37 +0000
-- [Nikon’s Long-Anticipated Firmware Update for the ZR is Finally Here](https://nofilmschool.com/nikon-zr-firmware-update-2-00-2678513410) - Tue, 24 Nov 2026 18:00:02 +0000
