@@ -1,7 +1,18 @@
-# Criptomonedas - 2026-11-25 19:33 AST
+# Criptomonedas - 2026-11-26 09:56 AST
 
 Fuente: https://www.coindesk.com/arc/outboundfeeds/rss/
 
+- [Standard Chartered's Zodia Custody suffers data breach, exposing client information](https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information)
+- [Bitcoin ETFs are bleeding cash and the Fed is unlikely to help](https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help)
+- [Hong Kong-based crypto trading firm Auros is winding down operations](https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources)
+- [Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving](https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving)
+- [Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure](https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure)
+- [New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech](https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech)
+- [$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October](https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october)
+- [Zcash developers want users to move $300 million out of an older privacy system](https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system)
+- [Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route](https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes)
+- [Ripple is worth $90 a share to one fund and $300 to another, SEC filings show](https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show)
+- [Bill to lock up U.S. government bitcoin for 20 years advances to full House](https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house)
 - [French Senate blocks new crypto tax and wallet list critics called a kidnapping risk](https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk)
 - ['This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles](https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles)
 - [EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending](https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending)
@@ -11,14 +22,3 @@ Fuente: https://www.coindesk.com/arc/outboundfeeds/rss/
 - [Fed’s preferred inflation gauge lands with a December rate increase already priced in](https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in)
 - [Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes](https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes)
 - [Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%](https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap)
-- [Gold's haven status has lost its edge over bitcoin, and the Fed's to blame](https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same)
-- [EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push](https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push)
-- [Live updates: Bitcoin climbs from lows as markets bounce from big early declines](https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower)
-- [Solana developers move to stop validators finishing work on blocks that already lost](https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost)
-- [Just 10 accounts drove all of the XRP Ledger's trading growth last quarter](https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter)
-- [Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive](https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive)
-- [A year after buying bitcoin, Czech central bank won't say what it's worth](https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth)
-- [Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one](https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one)
-- [Utah moves to drop criminal pursuit of Kalshi after the firm halted services there](https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there)
-- ['AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story](https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness)
-- [Anchorage Digital to unveil new asset-management subsidiary](https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary)
