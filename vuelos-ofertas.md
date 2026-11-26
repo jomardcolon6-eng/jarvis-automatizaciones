@@ -1,4 +1,4 @@
-# Ofertas de vuelos - 2026-11-25 19:44 AST
+# Ofertas de vuelos - 2026-11-26 10:50 AST
 
 Fuente: https://www.theflightdeal.com/feed/
 
