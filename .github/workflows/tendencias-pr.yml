@@ -2,7 +2,7 @@ name: Tendencias PR
 
 on:
   schedule:
-    - cron: '15 12 * * *'
+    - cron: '30 16 * * *'
   workflow_dispatch:
 
 permissions:
@@ -32,10 +32,10 @@ jobs:
               raise SystemExit('No se encontraron tendencias en el RSS de Google Trends Puerto Rico')
           now = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=4)
           lines = [
-              f"# Tendencias en Puerto Rico - {now:%Y-%m-%d %H:%M} AST",
-              '',
-              'Fuente: https://trends.google.com/trending/rss?geo=PR',
-              '',
+          f"# Tendencias en Puerto Rico - {now:%Y-%m-%d %H:%M} AST",
+          '',
+          'Fuente: https://trends.google.com/trending/rss?geo=PR',
+          '',
           ]
           for item in items:
               title_el = find_child(item, 'title')
