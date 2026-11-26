@@ -1,0 +1,86 @@
+name: Cursos diario
+
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cursos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Obtener y generar cursos-diario.md
+        run: |
+          set -e
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+          FEED_PRIMARIO="https://www.classcentral.com/report/feed/"
+          FEED_RESPALDO="https://www.freecodecamp.org/news/rss/"
+          OUT="cursos-diario.md"
+          FEED="$FEED_PRIMARIO"
+          FUENTE_NOMBRE="Class Central"
+          if ! curl -fsSL --retry 2 --max-time 60 -A "$UA" "$FEED_PRIMARIO" -o feed.xml || ! test -s feed.xml || [ "$(grep -c '<item>' feed.xml || true)" -eq 0 ]; then
+            echo "El RSS de Class Central falló o no trajo artículos; usando el respaldo de freeCodeCamp."
+            FEED="$FEED_RESPALDO"
+            FUENTE_NOMBRE="freeCodeCamp (respaldo: el RSS de Class Central falló)"
+            curl -fsSL --retry 2 --max-time 60 -A "$UA" "$FEED_RESPALDO" -o feed.xml
+          fi
+          echo "Primeros bytes del feed ($FUENTE_NOMBRE):"
+          head -c 300 feed.xml
+          echo
+          test -s feed.xml
+          FEED="$FEED" FUENTE_NOMBRE="$FUENTE_NOMBRE" python3 - <<'PY'
+          import os
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          feed = os.environ.get("FEED", "https://www.classcentral.com/report/feed/")
+          fuente = os.environ.get("FUENTE_NOMBRE", "Class Central")
+          tree = ET.parse("feed.xml")
+          root = tree.getroot()
+          items = []
+          for el in root.iter():
+            tag = el.tag.rsplit('}', 1)[-1]
+            if tag in ('item', 'entry'):
+              title = ''
+              link = ''
+              date = ''
+              for child in el:
+                t = child.tag.rsplit('}', 1)[-1]
+                if t == 'title' and child.text:
+                  title = child.text.strip()
+                elif t == 'link':
+                  if child.text and child.text.strip():
+                    link = child.text.strip()
+                  elif child.get('href'):
+                    link = child.get('href')
+                elif t in ('pubDate', 'published', 'updated') and child.text:
+                  date = child.text.strip()
+              if title:
+                items.append((title, link, date))
+          print(f"Items encontrados: {len(items)}")
+          if not items:
+            raise SystemExit(1)
+          today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          with open("cursos-diario.md", "w", encoding="utf-8") as f:
+            f.write(f"# Cursos diario - {today}\n\n")
+            f.write(f"Fuente: {feed} ({fuente})\n\n")
+            for title, link, date in items[:15]:
+              line = f"- [{title}]({link})" if link else f"- {title}"
+              if date:
+                line += f" - {date}"
+              f.write(line + "\n")
+          PY
+          test -s "$OUT"
+          rm -f feed.xml
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cursos-diario.md
+          git diff --cached --quiet || git commit -m "Actualizar cursos-diario.md"
+          git push
