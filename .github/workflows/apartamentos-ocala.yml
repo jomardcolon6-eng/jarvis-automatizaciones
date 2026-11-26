@@ -40,7 +40,7 @@ jobs:
                   if t and l:
                       out.append((t, l))
               return out
-          rss = ['https://www.zillow.com/ocala-fl/apartments_rb/rss/', 'https://www.realtor.com/realestateandhomes-search/Ocala_FL/rss', 'https://www.realtor.com/apartments/Ocala_FL/rss', 'https://www.realtor.com/rentals/Ocala_FL/rss', 'https://ocala.craigslist.org/search/apa?format=rss']
+          rss = ['https://www.zillow.com/ocala-fl/apartments_rb/rss/', 'https://www.realtor.com/realestateandhomes-search/Ocala_FL/rss', 'https://www.realtor.com/apartments/Ocala_FL/rss', 'https://www.realtor.com/rentals/Ocala_FL/rss']
           items = []
           fuente = ''
           for url in rss:
@@ -62,29 +62,42 @@ jobs:
                   break
               time.sleep(5)
           if not items:
-              pages = [('https://www.realtor.com/apartments/Ocala_FL', 'https://www.realtor.com'), ('https://www.zillow.com/ocala-fl/apartments_rb/', 'https://www.zillow.com')]
+              pages = [('https://www.trulia.com/for_rent/Ocala,FL/', 'https://www.trulia.com'), ('https://www.realtor.com/apartments/Ocala_FL', 'https://www.realtor.com'), ('https://www.zillow.com/ocala-fl/apartments_rb/', 'https://www.zillow.com')]
               for page, base in pages:
                   try:
                       html = fetch(page).decode('utf-8', 'ignore')
                       print(f'Probado HTML {page}: {len(html)} caracteres')
                       hrefs = []
-                      for m in re.findall(r'href="([^"]*(?:realestateandhomes-detail|homedetails)[^"]*)"', html):
+                      for m in re.findall(r'href="([^"]*(?:realestateandhomes-detail|homedetails|/building/|/p/fl/ocala)[^"]*)"', html):
                           u = urljoin(base, m)
                           if u not in hrefs:
                               hrefs.append(u)
                       if hrefs:
                           for u in hrefs[:15]:
-                              slug = u.rstrip('/').split('/')[-1].replace('-', ' ').replace('_', ' ')
+                              slug = u.rstrip('/').split('/')[-1]
                               slug = re.sub(r'\.html.*$', '', slug)
-                              items.append((slug.strip().title() or u, u))
+                              slug = re.sub(r'-\d+$', '', slug)
+                              title = slug.replace('-', ' ').replace('_', ' ').strip().title() or u
+                              items.append((title, u))
                           fuente = page + ' (listado HTML, RSS sin datos)'
                           break
                   except Exception as e:
                       print(f'Fallo HTML {page}: {e}')
           if not items:
+              try:
+                  url = 'https://www.bing.com/news/search?q=apartments+for+rent+Ocala+FL&format=rss'
+                  data = fetch(url)
+                  print(f'Probado noticias Bing {url}: {len(data)} bytes')
+                  found = parse_feed(data)
+                  if found:
+                      items = found[:15]
+                      fuente = url + ' (noticias sobre apartamentos en Ocala; los RSS de alquiler no respondieron)'
+              except Exception as e:
+                  print(f'Fallo noticias Bing: {e}')
+          if not items:
               raise SystemExit('Ninguna fuente de Ocala devolvió anuncios')
           ahora = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-          lines = ['# Apartamentos en Ocala, Florida', '', f'Actualizado: {ahora} (11:30 AM AST)', '', f'Fuente que funcionó: {fuente}', '', 'Primero se prueba el RSS de Zillow; si no devuelve datos, se prueba el RSS de Realtor.com para Ocala y luego el RSS público de Craigslist Ocala.', '']
+          lines = ['# Apartamentos en Ocala, Florida', '', f'Actualizado: {ahora} (11:30 AM AST)', '', f'Fuente que funcionó: {fuente}', '', 'Primero se prueba el RSS de Zillow; si no devuelve datos, se prueba el RSS de Realtor.com para Ocala, el listado de Trulia y, como último recurso, noticias de Bing sobre apartamentos en Ocala.', '']
           for t, l in items:
               lines.append(f'- [{t}]({l})')
           open('apartamentos-ocala.md', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
