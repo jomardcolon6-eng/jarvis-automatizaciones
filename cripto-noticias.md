@@ -1,0 +1,19 @@
+# Cripto noticias - 2026-11-26
+
+Fuente: https://cointelegraph.com/rss
+
+- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 22:39:03 +0000
+- [Switzerland clears 57 jurisdictions for crypto tax data sharing](https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 22:00:50 +0000
+- [Braiins warns of Bitcoin mining attacks affecting over 1,000 sites](https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 21:32:42 +0000
+- [Why ECB collateral eligibility could boost demand for tokenized bonds](https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 21:18:51 +0000
+- [Ethereum Foundation backs Keccak-256 to counter quantum, AI threats](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 19:13:27 +0000
+- [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 19:26:05 +0000
+- [Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%](https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 19:00:29 +0000
+- [Nvidia agrees to $290M settlement over crypto mining revenue disclosures](https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 17:27:32 +0000
+- [FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers](https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 19:35:37 +0000
+- [Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal](https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 14:43:59 +0000
+- [Ukraine passes bill to legalize crypto and tax profits at 23%](https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 13:07:39 +0000
+- [Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization](https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 11:54:54 +0000
+- [Hong Kong launches tokenized debt platform with 24-hour settlement](https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 11:36:14 +0000
+- [Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout](https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 11:30:23 +0000
+- [Bitcoin price may fall below $53K if bear-market history repeats](https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) - Wed, 25 Nov 2026 11:22:28 +0000
