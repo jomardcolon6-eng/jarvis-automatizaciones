@@ -1,0 +1,71 @@
+name: Deportes diario
+
+on:
+  schedule:
+    - cron: '30 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deportes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Obtener y generar deportes-diario.md
+        run: |
+          set -e
+          FEED="https://www.espn.com/espn/rss/news"
+          OUT="deportes-diario.md"
+          curl -sL -A "Mozilla/5.0" "$FEED" -o feed.xml
+          test -s feed.xml
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          tree = ET.parse("feed.xml")
+          root = tree.getroot()
+          items = []
+          for el in root.iter():
+              tag = el.tag.rsplit('}', 1)[-1]
+              if tag in ('item', 'entry'):
+                  title = ''
+                  link = ''
+                  date = ''
+                  for child in el:
+                      t = child.tag.rsplit('}', 1)[-1]
+                      if t == 'title' and child.text:
+                          title = child.text.strip()
+                      elif t == 'link':
+                          if child.text and child.text.strip():
+                              link = child.text.strip()
+                          elif child.get('href'):
+                              link = child.get('href')
+                      elif t in ('pubDate', 'published', 'updated') and child.text:
+                          date = child.text.strip()
+                  if title:
+                      items.append((title, link, date))
+          print(f"Items encontrados: {len(items)}")
+          if not items:
+              raise SystemExit(1)
+          today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          with open("deportes-diario.md", "w", encoding="utf-8") as f:
+              f.write(f"# Deportes diario - {today}\n\n")
+              f.write("Fuente: https://www.espn.com/espn/rss/news\n\n")
+              for title, link, date in items[:15]:
+                  line = f"- [{title}]({link})" if link else f"- {title}"
+                  if date:
+                      line += f" - {date}"
+                  f.write(line + "\n")
+          PY
+          test -s "$OUT"
+          rm -f feed.xml
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add deportes-diario.md
+          git diff --cached --quiet || git commit -m "Actualizar deportes-diario.md"
+          git push
