@@ -17,53 +17,97 @@ jobs:
       - name: Obtener y generar deportes-diario.md
         run: |
           set -e
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           FEED="https://www.espn.com/espn/rss/news"
           OUT="deportes-diario.md"
-          curl -fsSL --retry 2 --max-time 60 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" -H "Accept: application/rss+xml, application/xml, text/xml, */*" -H "Accept-Language: en-US,en;q=0.9" --compressed -o feed.xml -w "HTTP %{http_code}, %{size_download} bytes\n" "$FEED"
-          echo "Primeros bytes del feed:"
-          head -c 300 feed.xml
+          MODO="rss"
+          if ! curl -fsSL --retry 2 --max-time 60 -A "$UA" -H "Accept: application/rss+xml, application/xml;q=0.9, */*;q=0.8" "$FEED" -o feed.xml || ! test -s feed.xml || [ "$(grep -c '<item>' feed.xml || true)" -eq 0 ]; then
+            echo "El RSS de ESPN no devolvió artículos; usando la API pública de ESPN como respaldo."
+            MODO="api"
+            rm -f feed.xml
+            for liga in football/nfl basketball/nba baseball/mlb hockey/nhl soccer/eng.1; do
+              nombre=$(echo "$liga" | tr '/' '_')
+              curl -fsSL --retry 2 --max-time 60 -A "$UA" "https://site.api.espn.com/apis/site/v2/sports/$liga/news?limit=5" -o "api_$nombre.json" || true
+            done
+          fi
+          if [ "$MODO" = "rss" ]; then
+            echo "Primeros bytes del feed:"
+            head -c 300 feed.xml
+          else
+            echo "Primeros bytes de la API:"
+            head -c 300 api_*.json | head -c 300
+          fi
           echo
-          test -s feed.xml
-          python3 - <<'PY'
+          MODO="$MODO" FEED="$FEED" python3 - <<'PY'
+          import glob
+          import json
+          import os
           import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
-          tree = ET.parse("feed.xml")
-          root = tree.getroot()
+          modo = os.environ.get("MODO", "rss")
+          feed = os.environ.get("FEED", "https://www.espn.com/espn/rss/news")
           items = []
-          for el in root.iter():
+          if modo == "rss":
+            tree = ET.parse("feed.xml")
+            root = tree.getroot()
+            for el in root.iter():
               tag = el.tag.rsplit('}', 1)[-1]
               if tag in ('item', 'entry'):
-                  title = ''
-                  link = ''
-                  date = ''
-                  for child in el:
-                      t = child.tag.rsplit('}', 1)[-1]
-                      if t == 'title' and child.text:
-                          title = child.text.strip()
-                      elif t == 'link':
-                          if child.text and child.text.strip():
-                              link = child.text.strip()
-                          elif child.get('href'):
-                              link = child.get('href')
-                      elif t in ('pubDate', 'published', 'updated') and child.text:
-                          date = child.text.strip()
-                  if title:
-                      items.append((title, link, date))
+                title = ''
+                link = ''
+                date = ''
+                for child in el:
+                  t = child.tag.rsplit('}', 1)[-1]
+                  if t == 'title' and child.text:
+                    title = child.text.strip()
+                  elif t == 'link':
+                    if child.text and child.text.strip():
+                      link = child.text.strip()
+                    elif child.get('href'):
+                      link = child.get('href')
+                  elif t in ('pubDate', 'published', 'updated') and child.text:
+                    date = child.text.strip()
+                if title:
+                  items.append((title, link, date))
+          else:
+            for path in sorted(glob.glob("api_*.json")):
+              try:
+                data = json.load(open(path, encoding="utf-8"))
+              except Exception:
+                continue
+              for a in data.get("articles", []):
+                title = (a.get("headline") or "").strip()
+                links = a.get("links") or {}
+                web = links.get("web") or {}
+                link = (web.get("href") or "").strip()
+                date = (a.get("published") or "").strip()
+                if title:
+                  items.append((title, link, date))
+            vistos = set()
+            unicos = []
+            for t, l, d in sorted(items, key=lambda x: x[2], reverse=True):
+              if t not in vistos:
+                vistos.add(t)
+                unicos.append((t, l, d))
+            items = unicos
           print(f"Items encontrados: {len(items)}")
           if not items:
-              raise SystemExit(1)
+            raise SystemExit(1)
           today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
           with open("deportes-diario.md", "w", encoding="utf-8") as f:
-              f.write(f"# Deportes diario - {today}\n\n")
+            f.write(f"# Deportes diario - {today}\n\n")
+            if modo == "rss":
               f.write("Fuente: https://www.espn.com/espn/rss/news\n\n")
-              for title, link, date in items[:15]:
-                  line = f"- [{title}]({link})" if link else f"- {title}"
-                  if date:
-                      line += f" - {date}"
-                  f.write(line + "\n")
+            else:
+              f.write("Fuente: API pública de ESPN (https://site.api.espn.com) — respaldo, porque el RSS de ESPN no respondió desde el ejecutor de GitHub Actions\n\n")
+            for title, link, date in items[:15]:
+              line = f"- [{title}]({link})" if link else f"- {title}"
+              if date:
+                line += f" - {date}"
+              f.write(line + "\n")
           PY
           test -s "$OUT"
-          rm -f feed.xml
+          rm -f feed.xml api_*.json
 
       - name: Guardar cambios
         run: |
@@ -71,4 +115,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add deportes-diario.md
           git diff --cached --quiet || git commit -m "Actualizar deportes-diario.md"
+          git pull --rebase
           git push
