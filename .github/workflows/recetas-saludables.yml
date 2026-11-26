@@ -1,0 +1,57 @@
+name: Recetas saludables diario
+
+on:
+  schedule:
+    - cron: '15 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recetas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar y generar recetas-saludables.md
+        run: |
+          python3 - <<'PY'
+          import time, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          url = 'https://minimalistbaker.com/feed/'
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'application/rss+xml, application/xml;q=0.9, */*;q=0.8', 'Accept-Language': 'en-US,en;q=0.9', 'Referer': 'https://minimalistbaker.com/'}
+          data = None
+          for intento in range(3):
+              try:
+                  req = urllib.request.Request(url, headers=headers)
+                  data = urllib.request.urlopen(req, timeout=30).read()
+                  print(f'Intento {intento + 1}: {len(data)} bytes')
+                  break
+              except Exception as e:
+                  print(f'Intento {intento + 1} falló: {e}')
+                  time.sleep(5)
+          if data is None:
+              raise SystemExit('El RSS de Minimalist Baker no respondió tras 3 intentos')
+          root = ET.fromstring(data)
+          items = root.findall('.//item')[:10]
+          if not items:
+              raise SystemExit('El RSS de Minimalist Baker no devolvió artículos')
+          ahora = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+          lines = ['# Recetas saludables diario', '', f'Actualizado: {ahora} (7:15 AM AST)', '', 'Fuente: Minimalist Baker — https://minimalistbaker.com/feed/', '']
+          for it in items:
+              t = (it.findtext('title') or '').strip()
+              l = (it.findtext('link') or '').strip()
+              d = (it.findtext('pubDate') or '').strip()
+              lines.append(f'- [{t}]({l})')
+              if d:
+                  lines.append(f'  - Publicado: {d}')
+          open('recetas-saludables.md', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+          print(f'Artículos guardados: {len(items)}')
+          PY
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add recetas-saludables.md
+          git diff --cached --quiet || git commit -m "Actualizar recetas-saludables.md"
+          git push
