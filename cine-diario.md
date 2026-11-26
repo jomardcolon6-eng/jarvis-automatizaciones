@@ -1,14 +1,14 @@
-# Cine diario - 2026-11-25 19:25 AST
+# Cine diario - 2026-11-26 10:08 AST
 
 Fuente: https://www.hollywoodreporter.com/feed/
 
-- [‘The Mosquito Bowl’ Producer Alex Gayner Thought He’d Solved Every Problem a Set Could Throw at Him. Then Came a Runaway Parrot.](https://www.hollywoodreporter.com/movies/movie-features/the-mosquito-bowl-alex-gayner-1236763483/)
-- [Aaron Rodgers Released by Steelers After ‘Pat McAfee Show’ Appearance](https://www.hollywoodreporter.com/news/general-news/aaron-rodgers-released-steelers-pat-mcafee-show-1236763487/)
-- [Will Ferrell’s Netflix Golf Comedy ‘The Hawk’ Canceled After One Season](https://www.hollywoodreporter.com/tv/tv-news/will-ferrell-netflix-comedy-the-hawk-canceled-one-season-1236763480/)
-- [Andy Taylor, Duran Duran Guitarist, Dies at 65](https://www.hollywoodreporter.com/music/music-news/andy-taylor-dead-duran-duran-guitarist-1236763445/)
-- [With ‘Guarding Stars,’ Jared Padalecki Finally Takes A Break From All That Action](https://www.hollywoodreporter.com/movies/movie-features/jared-padalecki-guarding-stars-netflix-holiday-1236760738/)
-- [TV Ratings: ‘Dancing With the Stars’ Records Another Huge Finale](https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-season-35-finale-tv-ratings-1236763448/)
-- [Macy’s Thanksgiving Day Parade Postponed as Storm Descends on Northeast](https://www.hollywoodreporter.com/tv/tv-news/2026-macys-thanksgiving-day-parade-postponed-nbc-saturday-1236763428/)
-- [With HBO Series ‘Scams for a Better Tomorrow,’ Oobah Butler Has a Language for Your Frustration](https://www.hollywoodreporter.com/tv/tv-features/oobah-butler-scams-for-a-better-tomorrow-hbo-max-vice-1236763316/)
-- [Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)](https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/)
-- [Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims](https://www.hollywoodreporter.com/business/business-news/brad-pitt-angelina-jolie-lawsuit-settlement-abuse-claims-1236763219/)
+- [How ‘The Lowdown’ Season 2 Finale Sets Up a (Hoped for) Third Season](https://www.hollywoodreporter.com/tv/tv-features/the-lowdown-season-2-finale-ethan-hawke-sterlin-harjo-1236763783/)
+- [‘Roma’ Producer Nicolás Celis, Warwick Thornton Films Set for Rotterdam Market IFFR Pro](https://www.hollywoodreporter.com/movies/movie-news/roma-producer-warwick-thornton-films-rotterdam-market-iffr-1236763960/)
+- [NBC Uses Thanksgiving TV to Kickstart 2028 LA Olympics Marketing Push](https://www.hollywoodreporter.com/business/business-news/nbc-new-2028-la-olympics-spot-thanksgiving-1236763173/)
+- [Director Cédric Klapisch to Receive César Lifetime Achievement Honor](https://www.hollywoodreporter.com/movies/movie-news/french-cesar-honor-for-director-cedric-klapisch-1236763946/)
+- [Hollywood’s Most Notable Deaths of 2026](https://www.hollywoodreporter.com/lists/notable-deaths-2026-hollywood-entertainment/)
+- [‘South Park’ Season Finale Drops Kenny Into ‘Grand Theft Auto VI’ as South America Comes Clean](https://www.hollywoodreporter.com/tv/tv-news/south-park-season-29-finale-kenny-grand-theft-auto-vi-1236763867/)
+- [The 20 Best Nordstrom Black Friday Deals: Uggs, Statement Diamond Studs and Cashmere Everything](https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-black-friday-sale-2026-best-cyber-week-deals-1236763823/)
+- [Former Disney Boss Bob Iger Got Employee Pregnant During Extramarital Affair, New Book Claims](https://www.hollywoodreporter.com/news/general-news/bob-iger-employee-pregnant-affair-house-of-mouse-revelations-1236763850/)
+- [The Best of Macy’s Black Friday Sale: Pre-Loved Birkins, Olivia Rodrigo Legos and 15 More Standouts](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/macys-black-friday-sale-2026-coupons-promo-codes-cyber-week-1236755681/)
+- [FCC Bid Challenging ABC’s TV Licenses Halted in Major Win for Network](https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790/)
