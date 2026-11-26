@@ -1,0 +1,93 @@
+name: Apartamentos en Ocala
+
+on:
+  schedule:
+    - cron: '30 15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apartamentos-ocala:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar y generar apartamentos-ocala.md
+        run: |
+          python3 - <<'PY'
+          import re, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          from urllib.parse import urljoin
+          def fetch(url):
+              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0', 'Accept': 'application/rss+xml, application/xml, text/html, */*'})
+              return urllib.request.urlopen(req, timeout=30).read()
+          def parse_feed(data):
+              root = ET.fromstring(data)
+              out = []
+              for it in root.findall('.//item'):
+                  t = (it.findtext('title') or '').strip()
+                  l = (it.findtext('link') or '').strip()
+                  if t and l:
+                      out.append((t, l))
+              if out:
+                  return out
+              ns = {'a': 'http://www.w3.org/2005/Atom'}
+              for e in root.findall('.//a:entry', ns):
+                  t = (e.findtext('a:title', default='', namespaces=ns) or '').strip()
+                  link = e.find('a:link', ns)
+                  l = link.get('href', '') if link is not None else ''
+                  if t and l:
+                      out.append((t, l))
+              return out
+          rss = ['https://www.zillow.com/ocala-fl/apartments_rb/rss/', 'https://www.realtor.com/realestateandhomes-search/Ocala_FL/rss', 'https://www.realtor.com/apartments/Ocala_FL/rss', 'https://www.realtor.com/rentals/Ocala_FL/rss']
+          items = []
+          fuente = ''
+          for url in rss:
+              try:
+                  data = fetch(url)
+                  print(f'Probado RSS {url}: {len(data)} bytes')
+                  found = parse_feed(data)
+                  if found:
+                      items = found[:15]
+                      fuente = url
+                      break
+                  print(f'Sin anuncios en {url}')
+              except Exception as e:
+                  print(f'Fallo {url}: {e}')
+          if not items:
+              pages = [('https://www.realtor.com/apartments/Ocala_FL', 'https://www.realtor.com'), ('https://www.zillow.com/ocala-fl/apartments_rb/', 'https://www.zillow.com')]
+              for page, base in pages:
+                  try:
+                      html = fetch(page).decode('utf-8', 'ignore')
+                      print(f'Probado HTML {page}: {len(html)} caracteres')
+                      hrefs = []
+                      for m in re.findall(r'href="([^"]*(?:realestateandhomes-detail|homedetails)[^"]*)"', html):
+                          u = urljoin(base, m)
+                          if u not in hrefs:
+                              hrefs.append(u)
+                      if hrefs:
+                          for u in hrefs[:15]:
+                              slug = u.rstrip('/').split('/')[-1].replace('-', ' ').replace('_', ' ')
+                              slug = re.sub(r'\.html.*$', '', slug)
+                              items.append((slug.strip().title() or u, u))
+                          fuente = page + ' (listado HTML, RSS sin datos)'
+                          break
+                  except Exception as e:
+                      print(f'Fallo HTML {page}: {e}')
+          if not items:
+              raise SystemExit('Ninguna fuente de Ocala devolvió anuncios')
+          ahora = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+          lines = ['# Apartamentos en Ocala, Florida', '', f'Actualizado: {ahora} (11:30 AM AST)', '', f'Fuente que funcionó: {fuente}', '', 'Primero se prueba el RSS de Zillow; si no devuelve datos, se prueba el RSS de Realtor.com para Ocala.', '']
+          for t, l in items:
+              lines.append(f'- [{t}]({l})')
+          open('apartamentos-ocala.md', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+          print(f'Anuncios guardados: {len(items)} desde {fuente}')
+          PY
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add apartamentos-ocala.md
+          git diff --cached --quiet || git commit -m "Actualizar apartamentos-ocala.md"
+          git push
