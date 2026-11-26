@@ -1,14 +1,14 @@
-# Tendencias en Puerto Rico - 2026-11-25 20:18 AST
+# Tendencias en Puerto Rico - 2026-11-26 13:28 AST
 
 Fuente: https://trends.google.com/trending/rss?geo=PR
 
-- [arresto](https://trends.google.com/trending/rss?geo=PR)
-- [avión](https://trends.google.com/trending/rss?geo=PR)
-- [heat vs 76ers](https://trends.google.com/trending/rss?geo=PR)
-- [heat - 76ers](https://trends.google.com/trending/rss?geo=PR)
-- [psg - roma](https://trends.google.com/trending/rss?geo=PR)
-- [steven hack](https://trends.google.com/trending/rss?geo=PR)
-- [luma energy](https://trends.google.com/trending/rss?geo=PR)
-- [osmel sousa](https://trends.google.com/trending/rss?geo=PR)
-- [champions league](https://trends.google.com/trending/rss?geo=PR)
-- [luma](https://trends.google.com/trending/rss?geo=PR)
+- [plaza las américas](https://trends.google.com/trending/rss?geo=PR)
+- [martha firestone ford](https://trends.google.com/trending/rss?geo=PR)
+- [accion de gracias 2026](https://trends.google.com/trending/rss?geo=PR)
+- [thanksgiving](https://trends.google.com/trending/rss?geo=PR)
+- [walgreens](https://trends.google.com/trending/rss?geo=PR)
+- [turquía](https://trends.google.com/trending/rss?geo=PR)
+- [marea](https://trends.google.com/trending/rss?geo=PR)
+- [happy thanksgiving](https://trends.google.com/trending/rss?geo=PR)
+- [spurs - trail blazers](https://trends.google.com/trending/rss?geo=PR)
+- [kings - warriors](https://trends.google.com/trending/rss?geo=PR)
