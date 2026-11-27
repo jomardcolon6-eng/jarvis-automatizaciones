@@ -1,6 +1,6 @@
 # Finanzas personales
 
-Actualizado: 2026-11-26 12:33 UTC (7:30 AM AST)
+Actualizado: 2026-11-27 12:29 UTC (7:30 AM AST)
 
 Fuente: NerdWallet — https://www.nerdwallet.com/blog/feed/
 
