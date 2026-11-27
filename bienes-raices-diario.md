@@ -1,9 +1,13 @@
 # Bienes raíces diario
 
-Actualizado: 2026-11-26 16:21 UTC (11:15 AM AST)
+Actualizado: 2026-11-27 16:21 UTC (11:15 AM AST)
 
 Fuente: BiggerPockets Blog — https://www.biggerpockets.com/blog/feed
 
+- [Buffett’s Berkshire Hathaway Bets $600M on Housing](https://www.biggerpockets.com/blog/real-estate-1362)
+  - Publicado: Fri, 27 Nov 2026 12:00:51 +0000
+- [How to Buy 4 Rental Properties by 40 Years Old](https://www.biggerpockets.com/blog/rookie-802)
+  - Publicado: Fri, 27 Nov 2026 12:00:00 +0000
 - [Scott Galloway: Stop Being an Earner, Start Being an Owner](https://www.biggerpockets.com/blog/on-the-market-481)
   - Publicado: Thu, 26 Nov 2026 12:00:46 +0000
 - [Why I’m Moving (More) Money Into Passive Real Estate in 2027](https://www.biggerpockets.com/blog/real-estate-1361)
@@ -30,7 +34,3 @@ Fuente: BiggerPockets Blog — https://www.biggerpockets.com/blog/feed
   - Publicado: Wed, 18 Nov 2026 12:00:41 +0000
 - [(Please) Don’t Bet on a Refinance](https://www.biggerpockets.com/blog/real-estate-1358)
   - Publicado: Wed, 18 Nov 2026 12:00:07 +0000
-- [Are “Equity Millionaires” Stopping the Housing Market from Sinking?](https://www.biggerpockets.com/blog/on-the-market-478)
-  - Publicado: Tue, 17 Nov 2026 12:00:59 +0000
-- [Why Transparency Matters More Than Ever in Real Estate Financing](https://www.biggerpockets.com/blog/why-transparency-matters-more-than-ever-in-real-estate-financing)
-  - Publicado: Mon, 16 Nov 2026 19:03:47 +0000
