@@ -1,9 +1,29 @@
 # Cine estrenos diario
 
-Actualizado: 2026-11-26 14:28 UTC (9:15 AM AST)
+Actualizado: 2026-11-27 14:26 UTC (9:15 AM AST)
 
 Fuente: SlashFilm — https://www.slashfilm.com/feed/
 
+- [What Makes Blade Runner 2099's Mercerism Subplot So Relevant [Exclusive]](https://www.slashfilm.com/2328572/blade-runner-2099-mercerism-subplot-explained-showrunner/)
+  - Publicado: Fri, 27 Nov 2026 14:00:00 +0000
+- [Everything New On Prime Video In December 2026: Full List Of Movies & TV Shows](https://www.slashfilm.com/2329412/new-prime-video-movies-tv-shows-december-2026/)
+  - Publicado: Fri, 27 Nov 2026 13:14:58 +0000
+- [30 Years Later, Jingle All The Way's Funniest Line Is Still The Best Christmas Movie Quote](https://www.slashfilm.com/2323558/jingle-all-the-way-funniest-line-best-christmas-movie-quote/)
+  - Publicado: Fri, 27 Nov 2026 09:10:00 +0000
+- [Steve Martin And John Candy's Classic Thanksgiving Movie Is A Paramount+ Streaming Hit](https://www.slashfilm.com/2329323/steve-martin-john-candy-thanksgiving-movie-streaming-paramount-plus-planes-trains-and-automobiles/)
+  - Publicado: Fri, 27 Nov 2026 04:00:11 +0000
+- [Landman Star Michelle Randolph's Christmas Movie Is Prime Video's Biggest Streaming Hit](https://www.slashfilm.com/2329296/landman-star-michelle-randolph-christmas-movie-clashing-through-the-snow-streaming-prime-video/)
+  - Publicado: Fri, 27 Nov 2026 00:29:37 +0000
+- [Avengers: Doomsday TV Spot Confirms RDJ's Doctor Doom Has A Scarred Face](https://www.slashfilm.com/2329265/avengers-doomsday-tv-spot-rdj-doctor-doom-scarred-face/)
+  - Publicado: Thu, 26 Nov 2026 22:35:44 +0000
+- [South Park's Season 29 Finale Features The Scariest TV Scene Of 2026](https://www.slashfilm.com/2329257/south-park-season-29-finale-2026-scariest-tv-scene/)
+  - Publicado: Thu, 26 Nov 2026 21:27:11 +0000
+- [Why Mags Flanagan From The Hunger Games: Sunrise On The Reaping Looks So Familiar](https://www.slashfilm.com/2328251/mags-flanagan-the-hunger-games-sunrise-on-the-reaping-actor-lili-taylor/)
+  - Publicado: Thu, 26 Nov 2026 17:00:00 +0000
+- [5 Best Book Series To Read If You Like The Hunger Games](https://www.slashfilm.com/2328429/best-book-series-like-the-hunger-games/)
+  - Publicado: Thu, 26 Nov 2026 16:00:00 +0000
+- [The Best Scene In Focker In-Law, According To Director John Hamburg [Exclusive]](https://www.slashfilm.com/2328114/focker-in-law-best-scene-director-john-hamburg/)
+  - Publicado: Thu, 26 Nov 2026 15:00:00 +0000
 - [Blade Runner 2099's Showrunner Had One Perfect Mandate To Keep Pushing Boundaries [Exclusive]](https://www.slashfilm.com/2325755/blade-runner-299-showrunner-mandate-push-boundaries/)
   - Publicado: Thu, 26 Nov 2026 14:00:00 +0000
 - [Focker In-Law Has A Clever Tropic Thunder Tribute You Probably Missed](https://www.slashfilm.com/2329110/focker-in-law-tropic-thunder-tribute/)
@@ -14,23 +34,3 @@ Fuente: SlashFilm — https://www.slashfilm.com/feed/
   - Publicado: Thu, 26 Nov 2026 09:10:00 +0000
 - [The Hunting Wives Season 2 Review: The Steamy Netflix Drama Hits The Mark Again](https://www.slashfilm.com/2326359/the-hunting-wives-season-2-review-netflix/)
   - Publicado: Thu, 26 Nov 2026 08:00:00 +0000
-- [The Cliff Booth Movie Brings Back Two Key Characters From Once Upon A Time In Hollywood](https://www.slashfilm.com/2328910/cliff-booth-movie-once-upon-a-time-characters-margot-robbie-timothy-olyphant/)
-  - Publicado: Thu, 26 Nov 2026 01:15:39 +0000
-- [Blade Runner 2099 Proves The Saga Does One Thing Better Than Any Other Sci-Fi Franchise](https://www.slashfilm.com/2327087/blade-runner-2099-one-thing-better-other-sci-fi-franchises/)
-  - Publicado: Wed, 25 Nov 2026 23:00:00 +0000
-- [Blade Runner 2099 Adds A Major Twist To The Classic Voight-Kampff Test](https://www.slashfilm.com/2327052/blade-runner-2099-twist-voight-kampff-test/)
-  - Publicado: Wed, 25 Nov 2026 22:00:00 +0000
-- [Quentin Tarantino Did More Than Just Write The Further Mis-Adventures Of Cliff Booth](https://www.slashfilm.com/2323281/quentin-tarantino-cliff-booth-movie-role-explained-narrator/)
-  - Publicado: Wed, 25 Nov 2026 21:00:00 +0000
-- [How Blade Runner 2099 Took Inspiration From Denis Villeneuve's Legacy Sequel [Exclusive]](https://www.slashfilm.com/2322392/blade-runner-2099-denis-villeneuve-sequel-inspiration-explained/)
-  - Publicado: Wed, 25 Nov 2026 20:00:00 +0000
-- [Avengers: Secret Wars Setting Confirmed By Marvel, Spoiling Doomsday](https://www.slashfilm.com/2328610/avengers-secret-wars-setting-marvel-doomsday-spoilers/)
-  - Publicado: Wed, 25 Nov 2026 19:54:00 +0000
-- [Avatar Fans Just Got Some Good News About The Franchise's Future At Disney](https://www.slashfilm.com/2328520/avatar-4-franchise-future-disney-update/)
-  - Publicado: Wed, 25 Nov 2026 19:10:14 +0000
-- [Blade Runner 2099 Revives A Major Element From Philip K. Dick's Original Novel](https://www.slashfilm.com/2326442/blade-runner-2099-revive-element-original-novel/)
-  - Publicado: Wed, 25 Nov 2026 19:00:00 +0000
-- [David Fincher's Rejected Star Wars Movie Pitch Would Have Centered On Two Beloved Franchise Characters](https://www.slashfilm.com/2328489/david-fincher-rejected-star-wars-movie-pitch-characters/)
-  - Publicado: Wed, 25 Nov 2026 18:55:35 +0000
-- [The Further Mis-Adventures Of Cliff Booth Features A Delightful Quentin Tarantino Easter Egg](https://www.slashfilm.com/2325154/the-further-mis-adventures-of-cliff-booth-quentin-tarantino-easter-egg-explained/)
-  - Publicado: Wed, 25 Nov 2026 18:00:00 +0000
