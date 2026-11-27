@@ -1,9 +1,25 @@
 # Tesla y autos eléctricos diario
 
-Actualizado: 2026-11-26 15:08 UTC (10:15 AM AST)
+Actualizado: 2026-11-27 15:02 UTC (10:15 AM AST)
 
 Fuente: Electrek — https://electrek.co/feed/
 
+- [This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus](https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/)
+  - Publicado: Fri, 27 Nov 2026 14:48:15 +0000
+- [Wheel-E Podcast: Juiced Scrambler Mini, ALSO pauses e-bikes, more](https://electrek.co/2026/11/27/wheel-e-podcast-juiced-scrambler-mini-also-pauses-e-bikes-more/)
+  - Publicado: Fri, 27 Nov 2026 13:56:48 +0000
+- [Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more](https://electrek.co/2026/11/27/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/)
+  - Publicado: Fri, 27 Nov 2026 13:27:31 +0000
+- [Congress just passed a major e-bike safety law. Here’s what it actually means](https://electrek.co/2026/11/27/congress-just-passed-a-major-e-bike-safety-law-heres-what-it-actually-means/)
+  - Publicado: Fri, 27 Nov 2026 11:24:13 +0000
+- [Review: Volvo’s 2028 XC60/90 PHEVs get 80 miles of EV range, changing the game](https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/)
+  - Publicado: Fri, 27 Nov 2026 09:57:17 +0000
+- [Amazon main event Black Friday sale now live! Apple, Google, Anker, LEGO, TVs, more](https://9to5toys.com/2026/11/27/amazon-official-black-friday-sale-live-2026/)
+  - Publicado: Fri, 27 Nov 2026 08:02:14 +0000
+- [Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more](https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/)
+  - Publicado: Thu, 26 Nov 2026 19:00:00 +0000
+- [Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush](https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/)
+  - Publicado: Thu, 26 Nov 2026 17:33:21 +0000
 - [Denver man traps Waymo robotaxis with cones, eggs them at least 30 times](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
   - Publicado: Thu, 26 Nov 2026 14:36:17 +0000
 - [Thanksgiving 2026 Green Deals Hub: EVs, e-bikes, power stations, tools, appliances, more](https://electrek.co/2026/11/26/thanksgiving-2026-green-deals-hub-evs-e-bikes-power-stations-tools-appliances-more/)
@@ -18,19 +34,3 @@ Fuente: Electrek — https://electrek.co/feed/
   - Publicado: Wed, 25 Nov 2026 21:31:38 +0000
 - [Tesla quietly sets up a company at German machine maker EMAG’s HQ](https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/)
   - Publicado: Wed, 25 Nov 2026 21:00:40 +0000
-- [Toyota is about to unveil its first extended-range EV, and it looks like the Highlander](https://electrek.co/2026/11/25/toyota-reveal-first-erev-looks-like-highlander/)
-  - Publicado: Wed, 25 Nov 2026 20:07:07 +0000
-- [Worx 40V 20-inch cordless snow blower + 2x batteries $350 low, Anker SOLIX E10 system exclusive new lows from $3,609, more](https://electrek.co/2026/11/25/worx-40v-20-inch-cordless-snow-blower-anker-solix-e10-system-more/)
-  - Publicado: Wed, 25 Nov 2026 19:00:00 +0000
-- [Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [update]](https://electrek.co/2026/11/25/hyundai-ioniq-3-spotted-us-affordable-ev-update/)
-  - Publicado: Wed, 25 Nov 2026 18:31:28 +0000
-- [The Suzuki Ignis is back, and this time it will be a low-cost EV sold globally [Images]](https://electrek.co/2026/11/25/suzuki-revives-ignis-low-cost-global-ev-images/)
-  - Publicado: Wed, 25 Nov 2026 17:46:20 +0000
-- [Mammotion LUBA Mini 2 AWD robot mower $1,599 low, EGO Multi-Head string trimmer $300 low + portable area light $199, more](https://electrek.co/2026/11/25/mammotion-luba-mini-2-awd-robot-mower-ego-multi-head-string-trimmer-portable-area-light-more/)
-  - Publicado: Wed, 25 Nov 2026 16:06:34 +0000
-- [EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15](https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/)
-  - Publicado: Wed, 25 Nov 2026 15:45:37 +0000
-- [Volkswagen’s new affordable electric SUV gets a sporty upgrade with GTI DNA](https://electrek.co/2026/11/25/vws-affordable-electric-suv-sporty-upgrade-gti-dna/)
-  - Publicado: Wed, 25 Nov 2026 15:44:05 +0000
-- [NIO targets 10,000 battery swap stations and $52B in batteries by 2030](https://electrek.co/2026/11/25/nio-10000-battery-swap-stations-52-billion-batteries-2030/)
-  - Publicado: Wed, 25 Nov 2026 14:43:33 +0000
