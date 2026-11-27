@@ -1,14 +1,14 @@
-# Cine diario - 2026-11-26 10:08 AST
+# Cine diario - 2026-11-27 10:12 AST
 
 Fuente: https://www.hollywoodreporter.com/feed/
 
-- [How ‘The Lowdown’ Season 2 Finale Sets Up a (Hoped for) Third Season](https://www.hollywoodreporter.com/tv/tv-features/the-lowdown-season-2-finale-ethan-hawke-sterlin-harjo-1236763783/)
-- [‘Roma’ Producer Nicolás Celis, Warwick Thornton Films Set for Rotterdam Market IFFR Pro](https://www.hollywoodreporter.com/movies/movie-news/roma-producer-warwick-thornton-films-rotterdam-market-iffr-1236763960/)
-- [NBC Uses Thanksgiving TV to Kickstart 2028 LA Olympics Marketing Push](https://www.hollywoodreporter.com/business/business-news/nbc-new-2028-la-olympics-spot-thanksgiving-1236763173/)
-- [Director Cédric Klapisch to Receive César Lifetime Achievement Honor](https://www.hollywoodreporter.com/movies/movie-news/french-cesar-honor-for-director-cedric-klapisch-1236763946/)
-- [Hollywood’s Most Notable Deaths of 2026](https://www.hollywoodreporter.com/lists/notable-deaths-2026-hollywood-entertainment/)
-- [‘South Park’ Season Finale Drops Kenny Into ‘Grand Theft Auto VI’ as South America Comes Clean](https://www.hollywoodreporter.com/tv/tv-news/south-park-season-29-finale-kenny-grand-theft-auto-vi-1236763867/)
-- [The 20 Best Nordstrom Black Friday Deals: Uggs, Statement Diamond Studs and Cashmere Everything](https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-black-friday-sale-2026-best-cyber-week-deals-1236763823/)
-- [Former Disney Boss Bob Iger Got Employee Pregnant During Extramarital Affair, New Book Claims](https://www.hollywoodreporter.com/news/general-news/bob-iger-employee-pregnant-affair-house-of-mouse-revelations-1236763850/)
-- [The Best of Macy’s Black Friday Sale: Pre-Loved Birkins, Olivia Rodrigo Legos and 15 More Standouts](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/macys-black-friday-sale-2026-coupons-promo-codes-cyber-week-1236755681/)
-- [FCC Bid Challenging ABC’s TV Licenses Halted in Major Win for Network](https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790/)
+- [Justin Timberlake Rolls Back the Years on Silly, Sexy and Sincere Appearance on ‘Tonight Show’](https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-tonight-show-medley-documentary-series-tv-1236764103/)
+- [Candace Cameron Bure Says She Gets “Substantial” Residuals From ‘Full House’](https://www.hollywoodreporter.com/tv/tv-news/candace-cameron-bure-substantial-residuals-full-house-1236764049/)
+- [Melissa Gilbert Expresses “Undying Gratitude” After Timothy Busfield’s Child Sex Abuse Case Dismissed](https://www.hollywoodreporter.com/news/general-news/melissa-gilbert-gratitude-timothy-busfield-case-dismissed-1236764064/)
+- [Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91](https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/)
+- [‘A Paw Patrol Christmas’: When and Where to Stream the Animated Holiday Special Online Free](https://www.hollywoodreporter.com/tv/tv-news/watch-a-paw-patrol-christmas-stream-cbs-special-online-free-1236436268/)
+- [‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/)
+- [Scott Caan Is “100 Percent” Open to Reprising Role in ‘Ocean’s 14’ With Casey Affleck](https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302/)
+- [BBC Under Investigation for Antisemitism Amid “Growing Feeling of Discomfort Among Jewish Staff”](https://www.hollywoodreporter.com/news/general-news/bbc-antisemitism-investigation-jewish-lord-john-mann-1236764004/)
+- [Get Ready for the Great Asterix Film Festival and Three Restored ‘Asterix’ Animated Movies!](https://www.hollywoodreporter.com/movies/movie-news/asterix-film-festival-three-restored-asterix-movies-coming-1236763992/)
+- [‘Dark’ Creators Revisit Eerie German Forests in First ‘Sonnental’ Teaser](https://www.hollywoodreporter.com/tv/tv-news/dark-creators-revisit-eerie-german-forests-sonnental-teaser-1236763983/)
