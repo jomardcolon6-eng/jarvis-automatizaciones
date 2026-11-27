@@ -1,19 +1,19 @@
-# Deportes diario - 2026-11-26
+# Deportes diario - 2026-11-27
 
 Fuente: API pública de ESPN (https://site.api.espn.com) — respaldo, porque el RSS de ESPN no respondió desde el ejecutor de GitHub Actions
 
-- [Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC](https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes) - 2026-11-26T11:00:03Z
-- [How Jeffery Simmons changed the Bears' defensive identity](https://www.espn.com/nfl/story/_/id/50597866/bears-jeffery-simmons-defense-super-bowl) - 2026-11-26T11:00:01Z
-- [Maple Leafs take on the Bruins in Atlantic Division action](http://www.espn.com/nhl/preview?gameId=401892795) - 2026-11-26T09:11:48Z
-- [Golden Knights take on the Sharks after Connelly's 2-goal showing](http://www.espn.com/nhl/preview?gameId=401892805) - 2026-11-26T09:11:47Z
-- [Oilers bring 4-game losing streak into matchup against the Kraken](http://www.espn.com/nhl/preview?gameId=401892809) - 2026-11-26T09:11:46Z
-- [Devils host the Flames after shootout victory](http://www.espn.com/nhl/preview?gameId=401892796) - 2026-11-26T09:11:45Z
-- [Ducks play the Kings after Killorn's 2-goal showing](http://www.espn.com/nhl/preview?gameId=401892804) - 2026-11-26T09:11:44Z
-- [Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven](https://www.espn.com/soccer/story/_/id/50602698/transfer-rumors-news-manchester-united-barcelona-heaven) - 2026-11-26T08:57:49Z
-- [Packers' Parsons calls for accountability after Rams run wild](https://www.espn.com/nfl/story/_/id/50602564/packers-micah-parsons-accountability-rams-return) - 2026-11-26T08:31:09Z
-- [Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions](https://www.espn.com/soccer/story/_/id/50592994/viktor-gyokeres-arsenal-premier-league-manchester-city) - 2026-11-26T07:22:52Z
-- [Clippers host Pelicans Friday for NBA Cup group stage game](http://www.espn.com/nba/preview?gameId=401909335) - 2026-11-26T07:03:44Z
-- [Nuggets visit Jazz Friday in NBA Cup group stage](http://www.espn.com/nba/preview?gameId=401909334) - 2026-11-26T07:03:43Z
-- [76ers visit Pacers Friday in NBA Cup group stage](http://www.espn.com/nba/preview?gameId=401909328) - 2026-11-26T07:03:41Z
-- [Warriors visit Trail Blazers Friday in NBA Cup group stage](http://www.espn.com/nba/preview?gameId=401909336) - 2026-11-26T07:03:40Z
-- [Raptors and Nets meet Friday in NBA Cup group stage](http://www.espn.com/nba/preview?gameId=401909329) - 2026-11-26T07:03:39Z
+- [Best friends Pat Surtain II, Jaylen Waddle ecstatic about reuniting with Broncos](https://www.espn.com/nfl/story/_/id/50595313/pat-surtain-ii-jaylen-waddle-broncos-alabama-best-friends) - 2026-11-27T11:00:22Z
+- [Can the 49ers lock up the NFC West after exceeding preseason expectations?](https://www.espn.com/nfl/story/_/id/50582755/san-francisco-49ers-nfc-west-playoffs-seeding) - 2026-11-27T11:00:13Z
+- [Why the Seahawks are turning back to quarterback Sam Darnold vs. the 49ers](https://www.espn.com/nfl/story/_/id/50609180/why-seahawks-starting-qb-sam-darnold-49ers-week-12) - 2026-11-27T11:00:08Z
+- [2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason](https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl) - 2026-11-27T11:00:08Z
+- [2027 NFL draft order projections for Round 1, chances for top pick, more](https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks) - 2026-11-27T11:00:02Z
+- [Bruno Fernandes: Late call due to illness for Man United vs. Brentford - sources](https://www.espn.com/soccer/story/_/id/50610575/bruno-fernandes-man-united-brentford) - 2026-11-27T10:48:10Z
+- ['Cole Palmer is the best No. 10 in the Premier League' - Tosin Adarabioyo](https://www.espn.com/soccer/story/_/id/50610420/cole-palmer-best-no-10-premier-league-says-tosin) - 2026-11-27T10:07:07Z
+- [Would any USMNT players really make Man United better if they followed Poch?](https://www.espn.com/soccer/story/_/id/50607825/usmnt-man-united-pochettino-transfers-sign-premier-league-usa) - 2026-11-27T09:02:01Z
+- [Transfer rumors, news:Transfer rumors, news: Nico Paz open to Man United; against Real Madrid return](https://www.espn.com/soccer/story/_/id/50610066/transfer-rumors-news-nico-paz-man-united-real-madrid-como) - 2026-11-27T08:56:05Z
+- [Wagner and the Magic take on conference foe Washington](http://www.espn.com/nba/preview?gameId=401910046) - 2026-11-27T07:03:32Z
+- [Jaylen Brown out against Pacers; Joel Embiid (illness) questionable](https://www.espn.com/nba/story/_/id/50606614/76ers-jaylen-brown-hamstring-friday-pacers) - 2026-11-26T22:45:16Z
+- [Devils defenseman Brenden Dillon suspended 4 games for illegal hit to the head](https://www.espn.com/nhl/story/_/id/50605811/devils-brenden-dillon-suspended-4-games-illegal-hit) - 2026-11-26T20:32:14Z
+- [Reports: Foster Griffin agrees to 3-year, $48M deal to stay with Guardians](https://www.espn.com/mlb/story/_/id/50600391/foster-griffin-agrees-3-year-48-million-deal-stay-guardians) - 2026-11-26T20:04:59Z
+- [Man United-linked Dominic Calvert-Lewin signs new Leeds contract](https://www.espn.com/soccer/story/_/id/50605310/dominic-calvert-lewin-leeds-united-contract) - 2026-11-26T18:54:10Z
+- [Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows](https://www.espn.com/espn/story/_/id/50576889/top-fictional-sports-series-21st-century) - 2026-11-26T16:01:10Z
