@@ -1,6 +1,6 @@
 # Postres para vender diario
 
-Actualizado: 2026-11-26 12:46 UTC (7:45 AM AST)
+Actualizado: 2026-11-27 12:45 UTC (7:45 AM AST)
 
 Fuente: Sally's Baking Addiction — https://sallysbakingaddiction.com/feed/
 
