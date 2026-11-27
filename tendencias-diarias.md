@@ -1,8 +1,8 @@
-# Tendencias diarias - 2026-11-26
+# Tendencias diarias - 2026-11-27
 
 Fuente: Google Trends (Estados Unidos), RSS publico: https://trends.google.com/trending/rss?geo=US
 
-Actualizado: 2026-11-26 (UTC)
+Actualizado: 2026-11-27 (UTC)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
@@ -13,303 +13,303 @@ Actualizado: 2026-11-26 (UTC)
 		<link>https://trends.google.com/trending/rss?geo=US</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=US" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>tehran</title>
+			<title>knox family death</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Fri, 27 Nov 2026 04:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTclNRkLFeMg7D5zcGxY11oogGNIlYmdPOYE0ihMr0VhReEOtKMuTQJJCe65g</ht:picture>
+			<ht:picture_source>NBC News</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Mississippi plane crash victims were members of a Florida family returning from a fishing trip</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nbcnews.com/news/us-news/mississippi-plane-crash-victims-members-prominent-florida-family-rcna611318</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTclNRkLFeMg7D5zcGxY11oogGNIlYmdPOYE0ihMr0VhReEOtKMuTQJJCe65g</ht:news_item_picture>
+				<ht:news_item_source>NBC News</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Remains of 6 people found after plane crashes en route to Fort Myers</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.gulfcoastnewsnow.com/article/remains-found-plane-crash-new-orleans-fort-myers-horn-island/74529786</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2t9FQnYACQM4WKXK-9V4LQNFQPWBzU8D3Ub79kfj9oqJOLwkFZ03xsnRGVWQ</ht:news_item_picture>
+				<ht:news_item_source>Gulf Coast News and Weather</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Air traffic controller gave pilot dad chilling warning before plane crash killed 6 family members</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://nypost.com/2026/11/26/us-news/air-traffic-controller-gave-pilot-dad-chilling-warning-before-plane-crash-killed-6-family-members/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbaaFIbgEIIE4DAYJDNWdFNnzdB8RP2FKLH_ER6C_lIUJrsI5wUVBQYokHoNU</ht:news_item_picture>
+				<ht:news_item_source>New York Post</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>le creuset black friday</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Fri, 27 Nov 2026 04:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGLNfhxl8KKIqnSS3j5oQ2XNDLz2Qk9nKQh0PrkaGke30fiO7JXvMOVCa_m-U</ht:picture>
+			<ht:picture_source>AL.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Le Creuset’s gorgeous Christmas Dutch oven is on sale for Black Friday</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.al.com/shopping/2026/11/le-creusets-gorgeous-christmas-dutch-oven-is-on-sale-for-black-friday.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGLNfhxl8KKIqnSS3j5oQ2XNDLz2Qk9nKQh0PrkaGke30fiO7JXvMOVCa_m-U</ht:news_item_picture>
+				<ht:news_item_source>AL.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Le Creuset Dropped Prices on Dutch Ovens, Tea Kettles, Holiday Gear, and More — Up to 40% Off</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.foodandwine.com/best-le-creuset-black-friday-deals-2026-12217732</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfih87K14WN9qcE0jylcrNCXrMbkj-jygz67oxn1txjpNCRLUCwFADQcpGosk</ht:news_item_picture>
+				<ht:news_item_source>Food &amp; Wine</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Le Creuset’s Black Friday Sale Includes the Signature Dutch Oven, And It&apos;s Going Quickly</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.bonappetit.com/story/black-friday-le-creuset-deals-11-27-2026</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-31dF3hn_2QdN_5havtwXxG-xSqrMRw7QYlS9m2H8JlCeitk47eJIjnTax5o</ht:news_item_picture>
+				<ht:news_item_source>Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>home goods black friday</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Fri, 27 Nov 2026 04:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4tTCe7Ie5BNmv7ljGJpSfpngY3XfhLNYLMLYtqQCARzMsiFSy9RsGc2mqJgA</ht:picture>
+			<ht:picture_source>New York Magazine</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Make That Big Home-Upgrade Purchase This Black Friday</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://nymag.com/strategist/article/best-black-friday-home-deals-2026.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4tTCe7Ie5BNmv7ljGJpSfpngY3XfhLNYLMLYtqQCARzMsiFSy9RsGc2mqJgA</ht:news_item_picture>
+				<ht:news_item_source>New York Magazine</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Save on big-ticket furniture items from Article, West Elm and more this Black Friday</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cnn.com/cnn-underscored/deals/black-friday-furniture-deals-2026-11-26</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQatjT2K_QgdHXOEVL7Oze9Kc9S_zu7KXjmSDBy3DVif5bYf1aFDJLuq_BThhE</ht:news_item_picture>
+				<ht:news_item_source>CNN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>The 121 Best Black Friday Home and Kitchen Deals</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.wsj.com/buyside/shopping-holidays/deals-sales/best-black-friday-home-kitchen-deals-2026</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRvPNRSLoaDIbG6iVAc59jrCtcbwAikXHv3cUfYlacINmyQ8Jvl2gQmADso_M</ht:news_item_picture>
+				<ht:news_item_source>WSJ</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>erling haaland</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Fri, 27 Nov 2026 04:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4xuglPDMIRgKbddh317fywdEhcnf7cF_nLHYw3AeSOR174UIKxQXsHeauCc</ht:picture>
+			<ht:picture_source>BBC</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Football gossip: Haaland, Musiala, Araujo, Alvarez, Rudiger, Owusu</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.bbc.com/sport/football/articles/c9zr568gje67o</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4xuglPDMIRgKbddh317fywdEhcnf7cF_nLHYw3AeSOR174UIKxQXsHeauCc</ht:news_item_picture>
+				<ht:news_item_source>BBC</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Are we about to lose the Premier League’s last superstar in Erling Haaland?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.telegraph.co.uk/football/2026/11/27/savour-erling-haaland-while-can-may-not-premier-league/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5cSO099L185PFAenaj8JwPQwxWdOE4V8QOXYEacHhpVzNAo3VIyr-QnISX0U</ht:news_item_picture>
+				<ht:news_item_source>The Telegraph</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>England legend: Haaland will join Real Madrid within 18 months and Vinicius will leave</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.goal.com/en/news/england-legend-haaland-will-join-real-madrid-within-18-months-and-vinicius-will-leave/blt48106015e0503a85</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVFYTy5poaanmPXGFgf6en_LWg9MNVELGl4LwAFY3O8xopaQ2ZkQ7XYiZMQHY</ht:news_item_picture>
+				<ht:news_item_source>Goal.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>us air force cloud one breach</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRJpyNw5QC_Bq5D1Ofxd0Ez8ACjD0GtmnEDfd5plkT0H-Tv5nhoFTq_ZlLaKw</ht:picture>
-			<ht:picture_source>The Washington Post</ht:picture_source>
+			<pubDate>Fri, 27 Nov 2026 04:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2VZNBGFB_AbNp5b33QaYe6OJSmVABOtX5cFZsSP6jbbTZPFmE4QB7H157tg</ht:picture>
+			<ht:picture_source>Reuters</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Iranians’ frustrations grow as Tehran, under U.S. pressure, imposes austerity</ht:news_item_title>
+				<ht:news_item_title>EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.washingtonpost.com/world/2026/11/26/tehran-imposes-austerity-under-us-pressure-iranians-frustrations-grow/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRJpyNw5QC_Bq5D1Ofxd0Ez8ACjD0GtmnEDfd5plkT0H-Tv5nhoFTq_ZlLaKw</ht:news_item_picture>
-				<ht:news_item_source>The Washington Post</ht:news_item_source>
+				<ht:news_item_url>https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2VZNBGFB_AbNp5b33QaYe6OJSmVABOtX5cFZsSP6jbbTZPFmE4QB7H157tg</ht:news_item_picture>
+				<ht:news_item_source>Reuters</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Iran rations electricity: How deeply are US sanctions, blockade biting?</ht:news_item_title>
+				<ht:news_item_title>Hackers Breached US Air Force’s Cloud Platform, Report Says</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTErIHGa1iGXMNXAWskDTBybGKE67NA5BxNI6jCTmt6PXvjFx7QzRGrkXvFHU</ht:news_item_picture>
-				<ht:news_item_source>Al Jazeera</ht:news_item_source>
+				<ht:news_item_url>https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJYrzo95roK8-idihEbsKGHjWZFCitesTLa9ht_u3zTVMDzChpQibrVwdTY0</ht:news_item_picture>
+				<ht:news_item_source>Bloomberg.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>‘Scenes you wouldn’t see even in Africa’: Video of Iran’s president sparks outrage</ht:news_item_title>
+				<ht:news_item_title>US Air Force&apos;s cloud computing platform hacked</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ynetnews.com/article/hjzx7gs17g</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKkKaiVwq5QZ_p4ke6wYjCDdzbmN9iN8l2Z89gts1NcqUsNhWRoI9NhXVZ7Ns</ht:news_item_picture>
-				<ht:news_item_source>Ynetnews</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>washington</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvgA2y0bCBXJ2DwUk0IFi8OdgmJ6SnC2lmmECR-fEduAdBchc1FHTdwVQ_pOg</ht:picture>
-			<ht:picture_source>KING5.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Coastal flooding possible in areas of western Washington</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.king5.com/article/weather/severe-weather/coastal-flooding-possible-areas-of-western-washington/281-dd0d2672-4cbb-48b3-a872-094ef23a950b</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvgA2y0bCBXJ2DwUk0IFi8OdgmJ6SnC2lmmECR-fEduAdBchc1FHTdwVQ_pOg</ht:news_item_picture>
-				<ht:news_item_source>KING5.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Extreme tides start to land on Washington coast</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.kuow.org/environment/2026-11-24/extreme-tides-start-to-land-on-washington-coast</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjPGnRyjmDqwIvX-diarn-78VEflPekcG6-qaMovQLK_7Crg82OUUbii8r1co</ht:news_item_picture>
-				<ht:news_item_source>KUOW</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>PSE preps for Thanksgiving storm impacts</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.rentonreporter.com/2026/11/25/pse-preps-for-thanksgiving-storm-impacts/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8wMkGJ6NCVavODSELVobAkTjqYY6zXhjDm_Y1tuLxogvAx_iHT0PUYqQBnhA</ht:news_item_picture>
-				<ht:news_item_source>Renton Reporter</ht:news_item_source>
+				<ht:news_item_url>https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGLuqvv-Ez0cmtDoowaAPs968_KgJSmz7LUtsaovEfiNQgxp1bL5vKZ-aeeQ</ht:news_item_picture>
+				<ht:news_item_source>Sky News</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>winn dixie thanksgiving hours</title>
+			<title>apple tv 4k</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmXTUaogAIVzouiaawgJ_P2vaDx12D9p2WlWF6KvHomKE0PS-L2gGbaGocjR4</ht:picture>
-			<ht:picture_source>WUSF</ht:picture_source>
+			<pubDate>Fri, 27 Nov 2026 04:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRb7Gco8oVIKnTwvP7oGiV5PER4UUHLsfqKawrXs0klNM0IEMDgAED9E-vwabU</ht:picture>
+			<ht:picture_source>Vulture</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>In Apopka, busy food distribution event reflects chronic food insecurity challenge</ht:news_item_title>
+				<ht:news_item_title>You Don’t Need the New Apple TV Device</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.wusf.org/health-news-florida/2026-11-15/in-apopka-busy-food-distribution-event-reflects-chronic-food-insecurity-challenge</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmXTUaogAIVzouiaawgJ_P2vaDx12D9p2WlWF6KvHomKE0PS-L2gGbaGocjR4</ht:news_item_picture>
-				<ht:news_item_source>WUSF</ht:news_item_source>
+				<ht:news_item_url>https://www.vulture.com/article/apple-tv-4k-4th-generation-review.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRb7Gco8oVIKnTwvP7oGiV5PER4UUHLsfqKawrXs0klNM0IEMDgAED9E-vwabU</ht:news_item_picture>
+				<ht:news_item_source>Vulture</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>These are Winn-Dixie’s Thanksgiving Hours</ht:news_item_title>
+				<ht:news_item_title>The New Apple TV 4K Is a Great Streaming Box at a Bad Price: Review</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://parade.com/food/winn-dixie-thanksgiving-hours-2026</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmPvvYaW-QhgwO4Rb5gz2RkB1nBweJxnbb02fwv4EbS9cOgUqVIAEa1qtQkE4</ht:news_item_picture>
-				<ht:news_item_source>Parade Magazine</ht:news_item_source>
+				<ht:news_item_url>https://www.bloomberg.com/news/features/2026-11-21/apple-tv-4k-review-new-299-streaming-box-is-excellent-but-too-expensive</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17sjvd9Y261M6_rIcCz2Di7sPgWMfkuLh9fsTCIWABBRFsXDnqD1ciphdi6I</ht:news_item_picture>
+				<ht:news_item_source>Bloomberg.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Military families received Thanksgiving meals from Winn-Dixie and USO Jacksonville</ht:news_item_title>
+				<ht:news_item_title>I changed 5 settings and it was like a free upgrade for my Apple TV 4K</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.actionnewsjax.com/news/local/military-families-received-thanksgiving-meals-winn-dixie-uso-jacksonville/I7LWHHR5VBEHXB2ZIXU3NCCNXM/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0BDa8aVYxsnyyE62oW8SpKnh2y4W7XcwvyWYsmtmr370uaMJrxMaXeipHoKg</ht:news_item_picture>
-				<ht:news_item_source>Action News Jax</ht:news_item_source>
+				<ht:news_item_url>https://www.pocket-lint.com/apple-tv-4k-changed-settings-and-it-was-like-a-free-upgrade/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ5rWPN29_mW4QSGG0Gq44QKCiT7nvow8OJwCDlMXe_bSgDBFkenN4IpomtEI</ht:news_item_picture>
+				<ht:news_item_source>Pocket-lint</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>espncricinfo</title>
+			<title>macbook neo black friday deals</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZxAuEbuY53OIUM1Dq9aUaII8F6HR2L9ZvhMy0d2dRo5FUB_6aF1Mx2dL8AE</ht:picture>
-			<ht:picture_source>Cricinfo</ht:picture_source>
+			<pubDate>Fri, 27 Nov 2026 04:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlc8S807CqzXWTeTYCa756bj3xqkr30A6ZDDjAcjxhncorzjOB11OToxkwr6s</ht:picture>
+			<ht:picture_source>MacRumors</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>New Zealand and India hope Test cricket is in a giving mood at Hagley Oval</ht:news_item_title>
+				<ht:news_item_title>MacBook Air Black Friday Deals Now Live With Massive $399 Savings</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-test-1539443/match-preview</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZxAuEbuY53OIUM1Dq9aUaII8F6HR2L9ZvhMy0d2dRo5FUB_6aF1Mx2dL8AE</ht:news_item_picture>
-				<ht:news_item_source>Cricinfo</ht:news_item_source>
+				<ht:news_item_url>https://www.macrumors.com/2026/11/26/macbook-air-black-friday-deals-3/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlc8S807CqzXWTeTYCa756bj3xqkr30A6ZDDjAcjxhncorzjOB11OToxkwr6s</ht:news_item_picture>
+				<ht:news_item_source>MacRumors</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>NZ vs IND, 2nd Test: Bowling coach Morne Morkel wants India to bowl without &apos;desperation&apos; in Christchurch decider</ht:news_item_title>
+				<ht:news_item_title>Cheaper Than a Basic iPhone, the M5 MacBook Air 512GB Just Got Another Black Friday Price Cut</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cricbuzz.com/cricket-news/141066/nz-vs-ind-2nd-test-bowling-coach-morne-morkel-wants-india-to-bowl-without-desperation-in-christchurch-decider-cricbuzzcom</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdwLnEkl3jUM6bFR8zGvkpI5ejK0Qp0_RhyrzQqhmXI9AHYl1NnwZCkKCM78Y</ht:news_item_picture>
-				<ht:news_item_source>Cricbuzz</ht:news_item_source>
+				<ht:news_item_url>https://gizmodo.com/cheaper-than-a-basic-iphone-the-m5-macbook-air-512gb-just-got-another-black-friday-price-cut-2000845988</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiAZLhuH9OFWLKTKv21_EKT6UqQs8ODZoTvns6-ZHmiJ0keEUZ75HDxaRH8g8</ht:news_item_picture>
+				<ht:news_item_source>Gizmodo</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Will Gambhir-Gill Include Siraj For 2nd Test?</ht:news_item_title>
+				<ht:news_item_title>Apple&apos;s ultra-portable MacBook Neo is $99 off for Black Friday 2026</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.rediff.com/cricket/report/will-gambhir-gill-include-siraj-for-2nd-test/20261125.htm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPAwoOYmbrQQkt_9M3QHcZJZ23FfPsYvfiOvEtVbyvqsVC-YJA3TvCDODLGzc</ht:news_item_picture>
-				<ht:news_item_source>Rediff.com</ht:news_item_source>
+				<ht:news_item_url>https://appleinsider.com/articles/26/11/26/amazons-599-black-friday-macbook-neo-deal-is-back</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQonYd_WL5FjRI4T99RA6x5H28celNET7WxqXFz5p5pX9pWzXH4-3UmPFP_AZk</ht:news_item_picture>
+				<ht:news_item_source>AppleInsider</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>is food city open on thanksgiving</title>
+			<title>natalie harp</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwX_Snf3NZayvBhvbwYiBNy-3d5pZdDKU_vCaujZOH1sbYufWXx2HAb8Nq2Aw</ht:picture>
-			<ht:picture_source>Knoxville News Sentinel</ht:picture_source>
+			<pubDate>Fri, 27 Nov 2026 04:20:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3NpgNMAs8wjyJSEv-NwA5g1U4Vt2e8pXAlAjqpy1uKZBgWLB2vzl8rR6rwvw</ht:picture>
+			<ht:picture_source>New York Magazine</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Which Knoxville grocery stores are open on Thanksgiving? A full list</ht:news_item_title>
+				<ht:news_item_title>‘Is James Bond Conservative?’ Trump Asks Natalie Harp to Find Out</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.knoxnews.com/story/grocery/shopping/2026/11/26/knoxville-grocery-stores-open-on-thanksgiving-2026-hours-and-closures/92762168007/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwX_Snf3NZayvBhvbwYiBNy-3d5pZdDKU_vCaujZOH1sbYufWXx2HAb8Nq2Aw</ht:news_item_picture>
-				<ht:news_item_source>Knoxville News Sentinel</ht:news_item_source>
+				<ht:news_item_url>https://nymag.com/intelligencer/article/is-james-bond-conservative-trump-asks-natalie-to-find-out.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3NpgNMAs8wjyJSEv-NwA5g1U4Vt2e8pXAlAjqpy1uKZBgWLB2vzl8rR6rwvw</ht:news_item_picture>
+				<ht:news_item_source>New York Magazine</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Knox Area Transit will be closed on Thanksgiving</ht:news_item_title>
+				<ht:news_item_title>Trump praises ‘nice-looking’ Robert Pattinson as new Bond</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.wbir.com/article/news/community/transportation/knox-area-transit-closed-on-thanksgiving/51-4bc329d4-0f48-419f-b2a9-dbd9acd2f959</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbt01Nzaa6FNdbmziToQEt0nK6Y2cQhyq_3yB6ft_gfJ0rap-9L3ojhBFyqGw</ht:news_item_picture>
-				<ht:news_item_source>WBIR</ht:news_item_source>
+				<ht:news_item_url>https://www.telegraph.co.uk/us/news/2026/11/25/trump-praises-robert-pattinson-new-james-bond/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqsf1hAFgImhhNjU4dxdutFsWEfUPVzcpNZL3Tjbq8PGmRETrQvWPH1gT1uE</ht:news_item_picture>
+				<ht:news_item_source>The Telegraph</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>City of Knoxville Thanksgiving Closures &amp; Holiday Happenings</ht:news_item_title>
+				<ht:news_item_title>On Her Majesty’s Service: Trump sends Natalie Harp on mission to find out more about new James Bond</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://insideofknoxville.com/2026/11/city-of-knoxville-thanksgiving-closures-holiday-happenings/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIDwfjqAG3Rf4_TH7rnBZnsbbqnweU6gNmgq518_yw9Oi8gZemMKi1H8RNP8A</ht:news_item_picture>
-				<ht:news_item_source>Inside of Knoxville</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>aeropuerto internacional de miami</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbkd1Vwu6TRb3hbOJFKSgfbz4hMdnT8-LyQeUrulUqlnaQ7gEIZt9qYIKxuE</ht:picture>
-			<ht:picture_source>AP News</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Avión FedEx se sale de pista en aeropuerto de Miami, que cierra temporalmente casi todas sus pistas</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://apnews.com/article/miami-aeropuerto-fedex-avion-sale-de-pista-693f96d01ac09ba0e31e44cabcf6a8ca</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbkd1Vwu6TRb3hbOJFKSgfbz4hMdnT8-LyQeUrulUqlnaQ7gEIZt9qYIKxuE</ht:news_item_picture>
-				<ht:news_item_source>AP News</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Retrasos en vuelos luego de que un avión de FedEx se saliera de la pista en aeropuerto de Miami</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.telemundo51.com/video/noticiero-t51/retrasos-en-vuelos-luego-de-que-un-avion-de-fedex-se-saliera-de-la-pista-en-aeropuerto-de-miami/2854430/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwBK04i5iSZ6B6K6DK8-rG7m26zvUFiRydnIw0O1ZGVKFkxgSgFeqig7j3cN8</ht:news_item_picture>
-				<ht:news_item_source>Telemundo Miami</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Lo mejor de N+ Univision de la noche | miércoles 25 de noviembre de 2026</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.univision.com/noticias/lo-mejor-de-n-univision-de-la-noche-miercoles-25-de-noviembre-de-2026-video</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9h82sb4BC5RA1Q1bbQGgW1HE1S8H6whJCLwbVhDM30S2Fn5e979Uoc4Kiui0</ht:news_item_picture>
-				<ht:news_item_source>Univision</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>is weis open on thanksgiving</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgPhcKo_mI_DxI36c7wIk1mZF8OKZmmMV2t-yU1aoNZtGvq9L1tQ6zih47018</ht:picture>
-			<ht:picture_source>StateCollege.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>What Grocery Stores Are Open on Thanksgiving? Here’s a Look Around Centre County</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.statecollege.com/articles/business/what-grocery-stores-are-open-on-thanksgiving-heres-a-look-around-centre-county/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgPhcKo_mI_DxI36c7wIk1mZF8OKZmmMV2t-yU1aoNZtGvq9L1tQ6zih47018</ht:news_item_picture>
-				<ht:news_item_source>StateCollege.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>What’s open and closed on Thanksgiving Day in the Susquehanna Valley?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.wgal.com/article/whats-open-closed-thanksgiving-day-pennsylvania/74518526</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVbSPrEMDZtnVc6LLm-wXSrTHt8wBayyv7fkZbrpIUsM4r3WRqyx0Q-Zow480</ht:news_item_picture>
-				<ht:news_item_source>WGAL</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Need some last-minute groceries? Here’s what to know for Thanksgiving shopping in central Pa.</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.pennlive.com/news/2026/11/need-some-last-minute-groceries-heres-what-to-know-for-thanksgiving-shopping-in-central-pa.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0Dcs9hzAeLYruTJy6-1U-_1oIB-JWGBBtbh4QdMNvekbHxhpVTiwVivkPRFs</ht:news_item_picture>
-				<ht:news_item_source>PennLive.com</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>matt damon family home life</title>
-			<ht:approx_traffic>2000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3N0L2FwNGZ6vc2BZ97-ngRhb-0PeFlhMG9oCLOoyR3sgqL4M8fT0CjvhJkHM</ht:picture>
-			<ht:picture_source>People.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Matt Damon Says Returning Home After Filming The Odyssey Was ‘Difficult’ as He Adjusted to Family Life (Exclusive)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://people.com/matt-damon-adjusting-family-life-after-filming-the-odyssey-exclusive-12266199</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3N0L2FwNGZ6vc2BZ97-ngRhb-0PeFlhMG9oCLOoyR3sgqL4M8fT0CjvhJkHM</ht:news_item_picture>
-				<ht:news_item_source>People.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Matt Damon says it was ‘difficult’ returning home to his family after ‘The Odyssey’ isolation</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://ew.com/matt-damon-difficulty-returning-home-family-after-the-odyssey-isolation-12279732</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeLEblOsF0dC-FB62TH_gUXTz7RzoK1dq8Xuie0qPDJnwuERdaA14O_0V88SM</ht:news_item_picture>
-				<ht:news_item_source>Entertainment Weekly</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Matt Damon reveals why it was difficult to return home after filming The Odyssey</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.the-independent.com/arts-entertainment/films/news/matt-damon-the-odyssey-christopher-nolan-b3091661.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEe-EnzmYzGm4qZIVxncD-xPZKPDWEz-tbgoa4vDNgfkvHj5aOW7MAuqJlgpE</ht:news_item_picture>
+				<ht:news_item_url>https://www.the-independent.com/news/world/americas/us-politics/trump-natalie-harp-robert-pattinson-printouts-b3091450.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0fVaFx3T0E13yvjvW0oIAIG05adN8nQ-ILfBOd61TWb7_goscg96TTPDbKPU</ht:news_item_picture>
 				<ht:news_item_source>The Independent</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>matt bevin child support ruling</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE2t1pAFPzxzNKgkmpaBSic2RUWhfOwBOQj1T2VKSkcjaKl8OrZV4NGqubrEM</ht:picture>
-			<ht:picture_source>WLKY</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Judge rules Matt Bevin does not owe adopted son child support</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.wlky.com/article/matt-bevin-adopted-son-child-support-ruling/74536486</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE2t1pAFPzxzNKgkmpaBSic2RUWhfOwBOQj1T2VKSkcjaKl8OrZV4NGqubrEM</ht:news_item_picture>
-				<ht:news_item_source>WLKY</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Matt Bevin does not owe adopted son child support, judge rules</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.courier-journal.com/story/news/politics/2026/11/25/matt-bevin-child-support-request-denied/92965159007/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Lv3eQC9vfrjXWbjkDp5jdmYHRdM3w2dNX0yjevEHkJvjDEtQh2ujDeld7do</ht:news_item_picture>
-				<ht:news_item_source>The Courier-Journal</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Family court judge makes ruling in former Kentucky Gov. Bevin’s child support case</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.wdrbwave.com/2026/11/26/family-court-judge-makes-ruling-former-gov-bevins-child-support-case/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBz0QWrnHSS85F4jM1c5l4SG1-5gu4WU3UMQmN0sxc71LO966VXi3nrbDdd-g</ht:news_item_picture>
-				<ht:news_item_source>WDRB</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>milwaukee brewers</title>
+			<title>apple stock price</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Thu, 26 Nov 2026 04:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP-5Cbmk8gKx_fsL2xfI5VAF05jI-XgDJod5bemkoCQQ9sIVcDXAZj_GhdfgU</ht:picture>
-			<ht:picture_source>MLB.com</ht:picture_source>
+			<pubDate>Fri, 27 Nov 2026 04:10:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST9jc13KqUNdDKnjYKkO9v9Kq9xxCA-8scTzv-ywmSDlM8gEMQTpvUJfJ5pjw</ht:picture>
+			<ht:picture_source>Trefis</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Brewers bring back righty Senzatela on 1-year contract</ht:news_item_title>
+				<ht:news_item_title>Why Should Apple Stock Holders Watch The December Quarter?</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mlb.com/news/antonio-senzatela-brewers-contract</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP-5Cbmk8gKx_fsL2xfI5VAF05jI-XgDJod5bemkoCQQ9sIVcDXAZj_GhdfgU</ht:news_item_picture>
-				<ht:news_item_source>MLB.com</ht:news_item_source>
+				<ht:news_item_url>https://www.trefis.com/stock/aapl/articles/629378/why-should-apple-stock-holders-watch-the-december-quarter/2026-11-27</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST9jc13KqUNdDKnjYKkO9v9Kq9xxCA-8scTzv-ywmSDlM8gEMQTpvUJfJ5pjw</ht:news_item_picture>
+				<ht:news_item_source>Trefis</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Brewers re-sign one of their Trade Deadline additions in first free agent sign of offseason</ht:news_item_title>
+				<ht:news_item_title>Global Memory Chip Shortage Drives Prices Up, Affects Electronics (AAPL)</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.brewcrewball.com/milwaukee-brewers-news/93134/brewers-re-sign-one-of-their-trade-deadline-additions-in-first-free-agent-sign-of-offseason</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAdDT7SgthWgfHubzy1vgIqPgMK3Cw5dIaTsu9Z8dtDt1kOSCJVt1g9D0Rk14</ht:news_item_picture>
-				<ht:news_item_source>Brew Crew Ball</ht:news_item_source>
+				<ht:news_item_url>https://www.gurufocus.com/news/9227742/global-memory-chip-shortage-drives-prices-up-affects-electronics-aapl</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXjgi3z6zA9T5J-sUaaAJvDy_gMFc5zJc96aAR1-1m063gyUFPGTxmW1Ieat0</ht:news_item_picture>
+				<ht:news_item_source>GuruFocus</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Brewers Sign Antonio Senzatela</ht:news_item_title>
+				<ht:news_item_title>Apple (NASDAQ: AAPL) Faces Unprecedented Memory Cost Pressure As Gross Margin Guidance Drops To 45%-46%</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mlbtraderumors.com/2026/11/brewers-sign-antonio-senzatela.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUv_O5r7hqeSEFbS2FthQ_POIOwEHhTqvV57rmsMsHIBTgmM2gxWp0gcOx-60</ht:news_item_picture>
-				<ht:news_item_source>MLB Trade Rumors</ht:news_item_source>
+				<ht:news_item_url>https://www.foreignpolicyjournal.com/2026/11/25/apple-nasdaq-aapl-faces-unprecedented-memory-cost-pressure-as-gross-margin-guidance-drops-to-45-46/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZPCJYKLhVNPqLHvga9bsl_WgTsQJKqykDmQ5A8NMTaMwG4oOCPmLHfV03-vw</ht:news_item_picture>
+				<ht:news_item_source>Foreign Policy Journal</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>courtney cronin</title>
+			<ht:approx_traffic>5000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Fri, 27 Nov 2026 04:10:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGAWz_djH16mWubE98GQyNi4Y6IQ-hgfi12HWa92pvjC1yV0wbb9CYClnmtDk</ht:picture>
+			<ht:picture_source>ESPN</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Bears&apos; Johnson has no plan to stop using Swift in run game despite costly fumbles</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.espn.com/nfl/story/_/id/50587324/bears-johnson-stick-swift-role-bears-run-game</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGAWz_djH16mWubE98GQyNi4Y6IQ-hgfi12HWa92pvjC1yV0wbb9CYClnmtDk</ht:news_item_picture>
+				<ht:news_item_source>ESPN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Ben Johnson: D’Andre Swift doesn’t need to regain trust after fumble</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-dandre-swift-doesnt-need-to-regain-trust-after-fumble</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmQ-ma4movm4GwQzLFma1wtuHv3ImMTnSR947v_sTbxx4Iz4iJ8z11dS3-hnY</ht:news_item_picture>
+				<ht:news_item_source>NBC Sports</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>After another fumble, what do Bears do with D&apos;Andre Swift now?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://chicago.suntimes.com/bears/2026/11/24/bears-dandre-swift-ben-johnson-fumbles-running-back-hold-ball-nfl-kyle-monangai-salvon-ahmed</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQftcIFATHhcDEiYyYCOdgFuPr6S6j3nNRfvAgyA3E3E63uy4KdqlP07w8OhSA</ht:news_item_picture>
+				<ht:news_item_source>Chicago Sun-Times</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
