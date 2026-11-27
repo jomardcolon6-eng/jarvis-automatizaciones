@@ -1,4 +1,4 @@
-# Ahorro dinero - 2026-11-26
+# Ahorro dinero - 2026-11-27
 
 Fuente: https://www.nerdwallet.com/blog/feed/
 
