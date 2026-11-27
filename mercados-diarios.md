@@ -1,7 +1,7 @@
-# Mercados diarios - 2026-11-26 08:55 AST
+# Mercados diarios - 2026-11-27 08:51 AST
 
 Fuente: CoinGecko (sin clave, datos públicos)
 
-- Bitcoin (BTC): $60,858.00 (+3.73% en 24h)
-- Ethereum (ETH): $1,706.27 (+3.68% en 24h)
-- Solana (SOL): $70.91 (+4.63% en 24h)
+- Bitcoin (BTC): $61,446.00 (+1.08% en 24h)
+- Ethereum (ETH): $1,719.33 (+0.88% en 24h)
+- Solana (SOL): $72.98 (+2.96% en 24h)
