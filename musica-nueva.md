@@ -1,14 +1,14 @@
-# Música nueva - 2026-11-26
+# Música nueva - 2026-11-27
 
 Fuente: https://www.billboard.com/feed/
 
-- [‘What A Talent’: Belinda Carlisle, UB40, Spandau Ballet & More Remember Andy Taylor](https://www.billboard.com/music/rock/belinda-carlisle-ub40-spandau-ballet-remember-andy-taylor-1236390136/) - Thu, 26 Nov 2026 08:04:00 +0000
-- [Andy Taylor Was Full of Surprises: Six Deep-Dive Career Moments](https://www.billboard.com/lists/andy-taylor-six-deep-dive-career-moments/) - Thu, 26 Nov 2026 06:27:53 +0000
-- [U2 Wind Back the Years With Classics, Dolly Parton Tribute for Thanksgiving Eve NFL Halftime Show](https://www.billboard.com/music/rock/u2-dolly-parton-tribute-thanksgiving-eve-nfl-halftime-show-1236390070/) - Thu, 26 Nov 2026 03:41:38 +0000
-- [Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More](https://www.billboard.com/lists/duran-duran-biggest-billboard-hits/) - Wed, 25 Nov 2026 23:53:32 +0000
-- [‘Hunger Games’ Series Returns to No. 1 on Soundtracks Chart After More Than a Decade](https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/) - Wed, 25 Nov 2026 23:42:43 +0000
-- [U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts](https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/) - Wed, 25 Nov 2026 22:57:07 +0000
-- [Andy Taylor, Former Duran Duran Guitarist, Dead at 65](https://www.billboard.com/music/rock/andy-taylor-death-duran-duran-guitarist-1236389920/) - Wed, 25 Nov 2026 22:10:26 +0000
-- [Hold Your Turkeys! Macy’s 100th Thanksgiving Day Parade Has Been Postponed: Here’s the New Date](https://www.billboard.com/music/music-news/macys-thanksgiving-day-parade-2026-canceled-delay-new-date-1236389923/) - Wed, 25 Nov 2026 22:05:34 +0000
-- [Billboard’s Music Industry Events Calendar](https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/) - Wed, 25 Nov 2026 21:55:00 +0000
-- [Black Friday 2026: Peacock Is More Than 65% Off for 3 Months](https://www.billboard.com/culture/product-recommendations/peacock-2026-black-friday-streaming-deals-1236389460/) - Wed, 25 Nov 2026 21:52:44 +0000
+- [Watch ‘Sesame Street’ Get Festive With an Adorable Spoof of Mariah Carey’s ‘All I Want for Christmas Is You’](https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/) - Fri, 27 Nov 2026 12:30:00 +0000
+- [Best Black Friday Ticket Deals 2026: Here’s How to Shop Affordable Concert Tickets Online](https://www.billboard.com/culture/product-recommendations/best-black-friday-ticket-deals-promo-codes-november-2026-1236389121/) - Fri, 27 Nov 2026 11:00:00 +0000
+- [Backstreet Boys Added to The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup](https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/) - Fri, 27 Nov 2026 10:00:00 +0000
+- [John Farnham’s Family Gives Rare Update on Legendary Singer’s Health](https://www.billboard.com/music/music-news/john-farnham-family-rare-update-legendary-singers-health-1236390271/) - Fri, 27 Nov 2026 08:43:22 +0000
+- [‘True Family’: Nile Rodgers Remembers Duran Duran’s Andy Taylor](https://www.billboard.com/music/rock/nile-rodgers-remembers-duran-duran-andy-taylor-1236390263/) - Fri, 27 Nov 2026 08:11:10 +0000
+- [2027 BRIT Awards Trophy Designed by ‘One of Britain’s Greatest Living Artists’: See Photos](https://www.billboard.com/music/awards/2027-brit-awards-trophy-designer-1236390153/) - Fri, 27 Nov 2026 08:00:00 +0000
+- [‘Grand Theft Auto VI’ Soundtrack Drives to No. 1 on ARIA Chart](https://www.billboard.com/music/chart-beat/grand-theft-auto-vi-soundtrack-no-1-aria-chart-1236390235/) - Fri, 27 Nov 2026 06:47:44 +0000
+- [Live Nation Adds Venue on Australia’s Gold Coast](https://www.billboard.com/pro/live-nation-adds-venue-australia-gold-coast/) - Fri, 27 Nov 2026 05:55:55 +0000
+- [Miranda Lambert Heats Up Halftime at Dallas Cowboys’ NFL Thanksgiving Game: Watch](https://www.billboard.com/music/country/miranda-lambert-thanksgiving-nfl-halftime-show-dallas-1236390212/) - Fri, 27 Nov 2026 04:58:09 +0000
+- [It’s a Shaolin Thanksgiving! Wu-Tang Clan, Chad Smith Light Up Halftime at Detroit Lions NFL Game](https://www.billboard.com/lists/wu-tang-clan-thanksgiving-halftime-detroit-lions-nfl-game/) - Fri, 27 Nov 2026 03:58:26 +0000
