@@ -1,14 +1,14 @@
-# Música diaria - 2026-11-26
+# Música diaria - 2026-11-27
 
 Fuente: https://www.billboard.com/feed/
 
-- [Wu-Tang Clan Halftime Show 2026: Here’s Where to Watch Chicago Bears vs. Detroit Lions Live Online Free](https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-chi-det-wu-tang-clan-halftime-watch-free-1236385560/) - Thu, 26 Nov 2026 15:00:00 +0000
-- [Inside the Madcap World of Chuyín: ‘Everyone Sings About the Neverending Party. I Sing About the Hangover’](https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/) - Thu, 26 Nov 2026 15:00:00 +0000
-- [Was The Rolling Stones’ 1973 Still Part of the Band’s Classic Period, Or the Beginning of the End? (Greatest Pop Stars Podcast)](https://www.billboard.com/music/pop/rolling-stones-1973-greatest-pop-stars-podcast-discussion-1236390158/) - Thu, 26 Nov 2026 14:47:13 +0000
-- [Here’s Where to Watch The National Dog Show 2026 Online for Free](https://www.billboard.com/culture/product-recommendations/the-national-dog-show-2026-nov-watch-online-free-1236389517/) - Thu, 26 Nov 2026 14:00:00 +0000
-- [‘What A Talent’: Belinda Carlisle, UB40, Spandau Ballet & More Remember Andy Taylor](https://www.billboard.com/music/rock/belinda-carlisle-ub40-spandau-ballet-remember-andy-taylor-1236390136/) - Thu, 26 Nov 2026 08:04:00 +0000
-- [Andy Taylor Was Full of Surprises: Six Deep-Dive Career Moments](https://www.billboard.com/lists/andy-taylor-six-deep-dive-career-moments/) - Thu, 26 Nov 2026 06:27:53 +0000
-- [U2 Wind Back the Years With Classics, Dolly Parton Tribute for Thanksgiving Eve NFL Halftime Show](https://www.billboard.com/music/rock/u2-dolly-parton-tribute-thanksgiving-eve-nfl-halftime-show-1236390070/) - Thu, 26 Nov 2026 03:41:38 +0000
-- [Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More](https://www.billboard.com/lists/duran-duran-biggest-billboard-hits/) - Wed, 25 Nov 2026 23:53:32 +0000
-- [‘Hunger Games’ Series Returns to No. 1 on Soundtracks Chart After More Than a Decade](https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/) - Wed, 25 Nov 2026 23:42:43 +0000
-- [U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts](https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/) - Wed, 25 Nov 2026 22:57:07 +0000
+- [From Amazon to Zara, Here Are All the Best Black Friday Deals, Promo Codes & Coupons](https://www.billboard.com/culture/product-recommendations/best-black-friday-deals-coupon-codes-november-2026-1236386835/) - Fri, 27 Nov 2026 14:45:20 +0000
+- [Chart Rewind: In 2021, Taylor Swift’s Rerecorded ‘All Too Well’ Ruled the Hot 100](https://www.billboard.com/music/chart-beat/taylor-swift-all-too-well-chart-rewind-2021-1236389622/) - Fri, 27 Nov 2026 14:00:00 +0000
+- [Watch ‘Sesame Street’ Get Festive With an Adorable Spoof of Mariah Carey’s ‘All I Want for Christmas Is You’](https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/) - Fri, 27 Nov 2026 12:30:00 +0000
+- [Best Black Friday Ticket Deals 2026: Here’s How to Shop Affordable Concert Tickets Online](https://www.billboard.com/culture/product-recommendations/best-black-friday-ticket-deals-promo-codes-november-2026-1236389121/) - Fri, 27 Nov 2026 11:00:00 +0000
+- [Backstreet Boys Added to The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup](https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/) - Fri, 27 Nov 2026 10:00:00 +0000
+- [John Farnham’s Family Gives Rare Update on Legendary Singer’s Health](https://www.billboard.com/music/music-news/john-farnham-family-rare-update-legendary-singers-health-1236390271/) - Fri, 27 Nov 2026 08:43:22 +0000
+- [‘True Family’: Nile Rodgers Remembers Duran Duran’s Andy Taylor](https://www.billboard.com/music/rock/nile-rodgers-remembers-duran-duran-andy-taylor-1236390263/) - Fri, 27 Nov 2026 08:11:10 +0000
+- [2027 BRIT Awards Trophy Designed by ‘One of Britain’s Greatest Living Artists’: See Photos](https://www.billboard.com/music/awards/2027-brit-awards-trophy-designer-1236390153/) - Fri, 27 Nov 2026 08:00:00 +0000
+- [‘Grand Theft Auto VI’ Soundtrack Drives to No. 1 on ARIA Chart](https://www.billboard.com/music/chart-beat/grand-theft-auto-vi-soundtrack-no-1-aria-chart-1236390235/) - Fri, 27 Nov 2026 06:47:44 +0000
+- [Live Nation Adds Venue on Australia’s Gold Coast](https://www.billboard.com/pro/live-nation-adds-venue-australia-gold-coast/) - Fri, 27 Nov 2026 05:55:55 +0000
