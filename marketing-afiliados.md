@@ -1,4 +1,4 @@
-# Marketing y afiliados - 2026-11-26 11:54 AST
+# Marketing y afiliados - 2026-11-27 11:53 AST
 
 Fuente: https://blog.hubspot.com/marketing/rss.xml
 
