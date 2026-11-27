@@ -1,9 +1,19 @@
 # Tecnología diaria
 
-Actualizado: 2026-11-26 14:35 UTC (9:30 AM AST)
+Actualizado: 2026-11-27 14:30 UTC (9:30 AM AST)
 
 Fuente: TechCrunch — https://techcrunch.com/feed/
 
+- [Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)
+  - Publicado: Thu, 26 Nov 2026 20:03:54 +0000
+- [Is Alice Huang a spy or not?](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/)
+  - Publicado: Thu, 26 Nov 2026 20:00:00 +0000
+- [X finally gets parental controls after 20 years](https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/)
+  - Publicado: Thu, 26 Nov 2026 19:31:50 +0000
+- [A month with the iPhone Duo has changed how I use my phone](https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/)
+  - Publicado: Thu, 26 Nov 2026 17:00:00 +0000
+- [Grand Theft Auto VI proves why efficiency isn’t a virtue](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)
+  - Publicado: Thu, 26 Nov 2026 16:00:00 +0000
 - [S&P considers Nvidia credit downgrade over governance and ‘key man’ risks](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
   - Publicado: Wed, 25 Nov 2026 22:44:32 +0000
 - [FCC approves SpaceX plan to put AI data centers in space](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/)
@@ -24,13 +34,3 @@ Fuente: TechCrunch — https://techcrunch.com/feed/
   - Publicado: Wed, 25 Nov 2026 17:36:51 +0000
 - [Character.AI’s plan to auction off users’ private chats challenged by state AGs](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
   - Publicado: Wed, 25 Nov 2026 17:35:58 +0000
-- [X’s latest update for creators focuses on vertical video](https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/)
-  - Publicado: Wed, 25 Nov 2026 17:28:29 +0000
-- [WhatsApp now lets you schedule messages in group and individual chats](https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/)
-  - Publicado: Wed, 25 Nov 2026 16:57:51 +0000
-- [Allstate suffers multiday tech outage ahead of Thanksgiving](https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/)
-  - Publicado: Wed, 25 Nov 2026 15:08:37 +0000
-- [Todoist confirms 6% of customers’ details were stolen in data breach](https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/)
-  - Publicado: Wed, 25 Nov 2026 14:20:28 +0000
-- [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/)
-  - Publicado: Wed, 25 Nov 2026 14:10:18 +0000
