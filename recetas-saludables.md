@@ -1,6 +1,6 @@
 # Recetas saludables diario
 
-Actualizado: 2026-11-27 12:02 UTC (7:15 AM AST)
+Actualizado: 2026-11-28 11:53 UTC (7:15 AM AST)
 
 Fuente: Minimalist Baker — https://minimalistbaker.com/feed/
 
