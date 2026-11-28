@@ -1,11 +1,13 @@
-# Criptomonedas - 2026-11-27 09:57 AST
+# Criptomonedas - 2026-11-28 09:45 AST
 
 Fuente: https://www.coindesk.com/arc/outboundfeeds/rss/
 
+- [Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value](https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value)
+- [Trump-linked crypto token WLFI plunges 50% to record lows](https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50)
 - [Kalshi turns to small businesses as legal battles threaten forecasts on sports](https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports)
 - [Bitcoin 'death cross' is coming. Here's what happened after previous 13.](https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13)
 - [Bitcoin on course to end seven-week losing streak while trailing stock rebound](https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound)
-- [Live updates: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains](https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains)
+- [Live updates: Bitcoin's Thanksgiving gains prove fleeting](https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains)
 - [Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin](https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin)
 - [Injective asks SEC to allow order books for tokenized stock trading](https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading)
 - [Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin](https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin)
@@ -20,5 +22,3 @@ Fuente: https://www.coindesk.com/arc/outboundfeeds/rss/
 - [Crypto for Advisors: Four questions to ask before trusting a crypto exchange](https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange)
 - [Spain gives anti-laundering unit power to freeze crypto accounts without a judge](https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge)
 - [Standard Chartered's Zodia Custody suffers data breach, exposing client information](https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information)
-- [Bitcoin ETFs are bleeding cash and the Fed is unlikely to help](https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help)
-- [Hong Kong-based crypto trading firm Auros is winding down operations](https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources)
