@@ -1,7 +1,10 @@
-# Empleos remotos - 2026-11-27 10:14 AST
+# Empleos remotos - 2026-11-28 09:56 AST
 
 Fuente: https://weworkremotely.com/categories/remote-programming-jobs.rss
 
+- [Terac: Offensive Cybersecurity Engineers: Build RL Environments for AI Evaluation](https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation)
+- [Exa: Support Engineer, PAYGO](https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo)
+- [OneImaging: Cloud Systems Administrator](https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator)
 - [OpenTrain AI: Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer)
 - [Karat: Software Engineer Interviewer](https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer)
 - [Golden 1 Credit Union: Web Applications Programmer II (Sitecore Development Required)](https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required)
@@ -14,6 +17,3 @@ Fuente: https://weworkremotely.com/categories/remote-programming-jobs.rss
 - [Crazy Maple Studio: Screenwriter - ReelShort (Contractor)](https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor)
 - [A.Team: Senior Independent AI Engineer / Architect](https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect)
 - [A.Team: Senior Independent Software Developer ($90-$170/hr)](https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr)
-- [Custom Mechanical Solutions: Quality and Reliability Engineer](https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer)
-- [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
-- [WelcomeHome Software: Senior Software Engineer](https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer)
